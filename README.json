@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-26T13:05:19Z",
                 "owner": "pyenv",
                 "repo": "pyenv",
-                "stars": 45051
-              }
+                "stars": 45050
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "qw3rtman",
                 "repo": "p",
                 "stars": 771
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "sashahart",
                 "repo": "vex",
                 "stars": 370
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "管理 Python 版本和环境的工具",
@@ -70,7 +73,8 @@
                 "owner": "pypa",
                 "repo": "pipenv",
                 "stars": 25035
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "jazzband",
                 "repo": "pip-tools",
                 "stars": 8008
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -96,11 +101,12 @@
                 "archived": false,
                 "id": 6235174,
                 "language": "Python",
-                "last_commit": "2026-08-26T14:56:18Z",
+                "last_commit": "2026-08-27T19:37:11Z",
                 "owner": "conda",
                 "repo": "conda",
                 "stars": 7495
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "管理包和依赖的工具。",
@@ -118,11 +124,12 @@
                 "archived": false,
                 "id": 9120498,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:46:06Z",
+                "last_commit": "2026-08-27T23:18:29Z",
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4136
-              }
+                "stars": 4138
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "mvantellingen",
                 "repo": "localshop",
                 "stars": 400
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "本地 PyPI 仓库服务和代理。",
@@ -158,8 +166,9 @@
                 "last_commit": "2026-08-23T15:03:06Z",
                 "owner": "pyinstaller",
                 "repo": "pyinstaller",
-                "stars": 13082
-              }
+                "stars": 13081
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -170,11 +179,12 @@
                 "archived": false,
                 "id": 101461719,
                 "language": "Python",
-                "last_commit": "2026-08-27T05:35:48Z",
+                "last_commit": "2026-08-27T23:56:22Z",
                 "owner": "dashingsoft",
                 "repo": "pyarmor",
                 "stars": 5180
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -189,7 +199,8 @@
                 "owner": "linkedin",
                 "repo": "shiv",
                 "stars": 1946
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "打包为可执行文件以便分发。",
@@ -207,11 +218,12 @@
                 "archived": false,
                 "id": 19606299,
                 "language": "Python",
-                "last_commit": "2026-08-25T11:35:00Z",
+                "last_commit": "2026-08-27T19:10:21Z",
                 "owner": "platformio",
                 "repo": "platformio-core",
-                "stars": 9428
-              }
+                "stars": 9429
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -226,7 +238,8 @@
                 "owner": "pybuilder",
                 "repo": "pybuilder",
                 "stars": 2036
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "将源码编译成软件。",
@@ -248,7 +261,8 @@
                 "owner": "ipython",
                 "repo": "ipython",
                 "stars": 16774
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -263,7 +277,8 @@
                 "owner": "prompt-toolkit",
                 "repo": "ptpython",
                 "stars": 5450
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -278,7 +293,8 @@
                 "owner": "bpython",
                 "repo": "bpython",
                 "stars": 2772
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "group",
@@ -294,11 +310,12 @@
                     "archived": false,
                     "id": 101582879,
                     "language": null,
-                    "last_commit": "2026-08-27T01:03:19Z",
+                    "last_commit": "2026-08-28T02:24:47Z",
                     "owner": "markusschanta",
                     "repo": "awesome-jupyter",
-                    "stars": 4662
-                  }
+                    "stars": 4663
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -321,8 +338,9 @@
                 "last_commit": "2026-08-26T11:15:34Z",
                 "owner": "gorakhargosh",
                 "repo": "watchdog",
-                "stars": 7399
-              }
+                "stars": 7400
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -337,7 +355,8 @@
                 "owner": "Tinche",
                 "repo": "aiofiles",
                 "stars": 3255
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -352,7 +371,8 @@
                 "owner": "ahupp",
                 "repo": "python-magic",
                 "stars": 2917
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -366,8 +386,9 @@
                 "last_commit": "2025-05-17T13:45:45Z",
                 "owner": "PyFilesystem",
                 "repo": "pyfilesystem2",
-                "stars": 2107
-              }
+                "stars": 2106
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -382,7 +403,8 @@
                 "owner": "jaraco",
                 "repo": "path",
                 "stars": 1124
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -397,7 +419,8 @@
                 "owner": "mikeorr",
                 "repo": "Unipath",
                 "stars": 510
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "文件管理和 MIME（多用途的网际邮件扩充协议）类型检测。",
@@ -419,7 +442,8 @@
                 "owner": "arrow-py",
                 "repo": "arrow",
                 "stars": 9047
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -434,7 +458,8 @@
                 "owner": "python-pendulum",
                 "repo": "pendulum",
                 "stars": 6673
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -449,7 +474,8 @@
                 "owner": "kennethreitz",
                 "repo": "maya",
                 "stars": 3411
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -464,7 +490,8 @@
                 "owner": "dateutil",
                 "repo": "dateutil",
                 "stars": 2631
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -479,7 +506,8 @@
                 "owner": "myusuf3",
                 "repo": "delorean",
                 "stars": 1823
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -494,7 +522,8 @@
                 "owner": "zachwill",
                 "repo": "moment",
                 "stars": 742
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -509,7 +538,8 @@
                 "owner": "KoffeinFlummi",
                 "repo": "Chronyk",
                 "stars": 341
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -524,7 +554,8 @@
                 "owner": "dirn",
                 "repo": "When.py",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -539,7 +570,8 @@
                 "owner": "shinux",
                 "repo": "PyTime",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "操作日期和时间的类库。",
@@ -566,7 +598,8 @@
                     "owner": "vi3k6i5",
                     "repo": "flashtext",
                     "stars": 5712
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -581,7 +614,8 @@
                     "owner": "mozillazg",
                     "repo": "python-pinyin",
                     "stars": 5357
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -596,7 +630,8 @@
                     "owner": "rspeer",
                     "repo": "python-ftfy",
                     "stars": 4060
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -611,7 +646,8 @@
                     "owner": "seatgeek",
                     "repo": "thefuzz",
                     "stars": 3645
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -626,7 +662,8 @@
                     "owner": "life4",
                     "repo": "textdistance",
                     "stars": 3540
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -640,8 +677,9 @@
                     "last_commit": "2026-08-23T23:21:51Z",
                     "owner": "chardet",
                     "repo": "chardet",
-                    "stars": 2662
-                  }
+                    "stars": 2663
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -656,7 +694,8 @@
                     "owner": "skorokithakis",
                     "repo": "shortuuid",
                     "stars": 2196
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -667,11 +706,12 @@
                     "archived": false,
                     "id": 1333666,
                     "language": "Python",
-                    "last_commit": "2026-08-27T00:02:10Z",
+                    "last_commit": "2026-08-28T06:09:30Z",
                     "owner": "simplejson",
                     "repo": "simplejson",
                     "stars": 1711
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -685,8 +725,9 @@
                     "last_commit": "2026-08-02T21:51:18Z",
                     "owner": "pwaller",
                     "repo": "pyfiglet",
-                    "stars": 1580
-                  }
+                    "stars": 1581
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -701,7 +742,8 @@
                     "owner": "ztane",
                     "repo": "python-Levenshtein",
                     "stars": 1277
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -716,7 +758,8 @@
                     "owner": "lxneng",
                     "repo": "xpinyin",
                     "stars": 831
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -731,7 +774,8 @@
                     "owner": "vinta",
                     "repo": "pangu.py",
                     "stars": 278
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -746,7 +790,8 @@
                     "owner": "moskytw",
                     "repo": "uniout",
                     "stars": 157
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -768,7 +813,8 @@
                     "owner": "un33k",
                     "repo": "python-slugify",
                     "stars": 1623
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -783,7 +829,8 @@
                     "owner": "voronind",
                     "repo": "awesome-slugify",
                     "stars": 490
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -798,7 +845,8 @@
                     "owner": "mozilla",
                     "repo": "unicode-slugify",
                     "stars": 325
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -820,7 +868,8 @@
                     "owner": "daviddrysdale",
                     "repo": "python-phonenumbers",
                     "stars": 3769
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -835,7 +884,8 @@
                     "owner": "daviddrysdale",
                     "repo": "python-phonenumbers",
                     "stars": 3769
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -850,7 +900,8 @@
                     "owner": "selwin",
                     "repo": "python-user-agents",
                     "stars": 1513
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -861,11 +912,12 @@
                     "archived": false,
                     "id": 18353524,
                     "language": "Python",
-                    "last_commit": "2026-08-27T07:24:57Z",
+                    "last_commit": "2026-08-28T01:58:44Z",
                     "owner": "derek73",
                     "repo": "python-nameparser",
                     "stars": 715
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -894,7 +946,8 @@
                     "owner": "kennethreitz",
                     "repo": "tablib",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -916,7 +969,8 @@
                     "owner": "python-openxml",
                     "repo": "python-docx",
                     "stars": 5697
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -931,7 +985,8 @@
                     "owner": "scanny",
                     "repo": "python-pptx",
                     "stars": 3502
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -945,8 +1000,9 @@
                     "last_commit": "2023-04-19T07:21:34Z",
                     "owner": "unoconv",
                     "repo": "unoconv",
-                    "stars": 2744
-                  }
+                    "stars": 2743
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -960,8 +1016,9 @@
                     "last_commit": "2026-07-07T12:13:00Z",
                     "owner": "elapouya",
                     "repo": "python-docx-template",
-                    "stars": 2697
-                  }
+                    "stars": 2696
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -976,7 +1033,8 @@
                     "owner": "pyexcel",
                     "repo": "pyexcel",
                     "stars": 1291
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -990,8 +1048,9 @@
                     "last_commit": "2020-02-21T21:04:05Z",
                     "owner": "python-excel",
                     "repo": "xlwt",
-                    "stars": 1044
-                  }
+                    "stars": 1043
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1006,7 +1065,8 @@
                     "owner": "brianray",
                     "repo": "mm",
                     "stars": 172
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -1024,11 +1084,12 @@
                     "archived": false,
                     "id": 3119517,
                     "language": "Python",
-                    "last_commit": "2026-08-27T11:15:39Z",
+                    "last_commit": "2026-08-27T15:59:17Z",
                     "owner": "py-pdf",
                     "repo": "pypdf",
-                    "stars": 10175
-                  }
+                    "stars": 10174
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1043,7 +1104,8 @@
                     "owner": "euske",
                     "repo": "pdfminer",
                     "stars": 5273
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -1064,8 +1126,9 @@
                     "last_commit": "2026-08-24T18:11:36Z",
                     "owner": "Python-Markdown",
                     "repo": "markdown",
-                    "stars": 4240
-                  }
+                    "stars": 4242
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1079,8 +1142,9 @@
                     "last_commit": "2026-08-21T04:48:29Z",
                     "owner": "lepture",
                     "repo": "mistune",
-                    "stars": 3065
-                  }
+                    "stars": 3066
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1095,7 +1159,8 @@
                     "owner": "trentm",
                     "repo": "python-markdown2",
                     "stars": 2821
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -1116,8 +1181,9 @@
                     "last_commit": "2026-08-03T23:53:23Z",
                     "owner": "wireservice",
                     "repo": "csvkit",
-                    "stars": 6409
-                  }
+                    "stars": 6410
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -1139,7 +1205,8 @@
                     "owner": "mitsuhiko",
                     "repo": "unp",
                     "stars": 455
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -1162,8 +1229,9 @@
                 "last_commit": "2024-05-10T07:38:24Z",
                 "owner": "fighting41love",
                 "repo": "funNLP",
-                "stars": 82712
-              }
+                "stars": 82726
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1177,8 +1245,9 @@
                 "last_commit": "2024-08-21T09:23:45Z",
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 35131
-              }
+                "stars": 35134
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1193,7 +1262,8 @@
                 "owner": "piskvorky",
                 "repo": "gensim",
                 "stars": 16481
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1204,11 +1274,12 @@
                 "archived": false,
                 "id": 104854615,
                 "language": "Python",
-                "last_commit": "2026-08-27T06:21:36Z",
+                "last_commit": "2026-08-28T04:34:16Z",
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7867
-              }
+                "stars": 7868
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1223,7 +1294,8 @@
                 "owner": "lancopku",
                 "repo": "pkuseg-python",
                 "stars": 6710
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1238,7 +1310,8 @@
                 "owner": "isnowfy",
                 "repo": "snownlp",
                 "stars": 6634
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1253,7 +1326,8 @@
                 "owner": "facebookresearch",
                 "repo": "pytext",
                 "stars": 6292
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1268,7 +1342,8 @@
                 "owner": "saffsd",
                 "repo": "langid.py",
                 "stars": 2462
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1283,7 +1358,8 @@
                 "owner": "aboSamoor",
                 "repo": "polyglot",
                 "stars": 2361
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1298,7 +1374,8 @@
                 "owner": "PetrochukM",
                 "repo": "PyTorch-NLP",
                 "stars": 2222
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1313,7 +1390,8 @@
                 "owner": "thunlp",
                 "repo": "THULAC-Python",
                 "stars": 2085
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1328,7 +1406,8 @@
                 "owner": "2shou",
                 "repo": "TextGrocery",
                 "stars": 684
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来处理人类语言的库。",
@@ -1346,11 +1425,12 @@
                 "archived": false,
                 "id": 841835,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:50:37Z",
+                "last_commit": "2026-08-27T16:23:22Z",
                 "owner": "readthedocs",
                 "repo": "readthedocs.org",
                 "stars": 8379
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1365,7 +1445,8 @@
                 "owner": "mitmproxy",
                 "repo": "pdoc",
                 "stars": 2511
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1380,7 +1461,8 @@
                 "owner": "pycco-docs",
                 "repo": "pycco",
                 "stars": 875
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "group",
@@ -1400,7 +1482,8 @@
                     "owner": "ygzgxyz",
                     "repo": "awesome-sphinxdoc",
                     "stars": 979
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -1420,11 +1503,12 @@
                 "archived": false,
                 "id": 191632914,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:22:20Z",
+                "last_commit": "2026-08-28T04:17:22Z",
                 "owner": "hydra-ecosystem",
                 "repo": "hydra",
                 "stars": 10618
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1439,7 +1523,8 @@
                 "owner": "HBNetwork",
                 "repo": "python-decouple",
                 "stars": 3037
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来保存和解析配置的库。",
@@ -1465,8 +1550,9 @@
                     "last_commit": "2026-07-01T08:19:02Z",
                     "owner": "google",
                     "repo": "python-fire",
-                    "stars": 28209
-                  }
+                    "stars": 28210
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1480,8 +1566,9 @@
                     "last_commit": "2026-03-23T23:03:45Z",
                     "owner": "chriskiehl",
                     "repo": "Gooey",
-                    "stars": 21905
-                  }
+                    "stars": 21904
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1495,8 +1582,9 @@
                     "last_commit": "2026-07-26T20:59:35Z",
                     "owner": "prompt-toolkit",
                     "repo": "python-prompt-toolkit",
-                    "stars": 10561
-                  }
+                    "stars": 10562
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1511,7 +1599,8 @@
                     "owner": "kennethreitz",
                     "repo": "clint",
                     "stars": 98
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -1532,8 +1621,9 @@
                     "last_commit": "2026-06-23T03:10:19Z",
                     "owner": "Textualize",
                     "repo": "rich",
-                    "stars": 57257
-                  }
+                    "stars": 57264
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1547,8 +1637,9 @@
                     "last_commit": "2026-08-17T21:24:27Z",
                     "owner": "tqdm",
                     "repo": "tqdm",
-                    "stars": 31294
-                  }
+                    "stars": 31296
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1562,8 +1653,9 @@
                     "last_commit": "2026-05-24T19:29:20Z",
                     "owner": "rsalmei",
                     "repo": "alive-progress",
-                    "stars": 6295
-                  }
+                    "stars": 6296
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1577,8 +1669,9 @@
                     "last_commit": "2026-07-04T13:05:35Z",
                     "owner": "peterbrittain",
                     "repo": "asciimatics",
-                    "stars": 4301
-                  }
+                    "stars": 4302
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1593,7 +1686,8 @@
                     "owner": "glamp",
                     "repo": "bashplotlib",
                     "stars": 1920
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -1614,8 +1708,9 @@
                     "last_commit": "2024-07-19T14:56:13Z",
                     "owner": "nvbn",
                     "repo": "thefuck",
-                    "stars": 97744
-                  }
+                    "stars": 97749
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1629,8 +1724,9 @@
                     "last_commit": "2026-04-01T17:46:44Z",
                     "owner": "cookiecutter",
                     "repo": "cookiecutter",
-                    "stars": 25066
-                  }
+                    "stars": 25068
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1641,11 +1737,12 @@
                     "archived": false,
                     "id": 6780767,
                     "language": "Python",
-                    "last_commit": "2026-08-26T20:15:35Z",
+                    "last_commit": "2026-08-27T21:26:24Z",
                     "owner": "aws",
                     "repo": "aws-cli",
-                    "stars": 17219
-                  }
+                    "stars": 17222
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1660,7 +1757,8 @@
                     "owner": "gleitz",
                     "repo": "howdoi",
                     "stars": 10839
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1675,7 +1773,8 @@
                     "owner": "facebook",
                     "repo": "PathPicker",
                     "stars": 5224
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1690,7 +1789,8 @@
                     "owner": "pyinvoke",
                     "repo": "invoke",
                     "stars": 4769
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1705,7 +1805,8 @@
                     "owner": "tmux-python",
                     "repo": "tmuxp",
                     "stars": 4569
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1720,7 +1821,8 @@
                     "owner": "sloria",
                     "repo": "doitlive",
                     "stars": 3580
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1734,8 +1836,9 @@
                     "last_commit": "2026-08-25T20:15:46Z",
                     "owner": "copier-org",
                     "repo": "copier",
-                    "stars": 3545
-                  }
+                    "stars": 3546
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1750,7 +1853,8 @@
                     "owner": "mooz",
                     "repo": "percol",
                     "stars": 3326
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1765,7 +1869,8 @@
                     "owner": "giampaolo",
                     "repo": "pyftpdlib",
                     "stars": 1819
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1780,7 +1885,8 @@
                     "owner": "timofurrer",
                     "repo": "try",
                     "stars": 747
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1795,7 +1901,8 @@
                     "owner": "brettcannon",
                     "repo": "caniusepython3",
                     "stars": 411
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -1816,8 +1923,9 @@
                     "last_commit": "2024-12-17T17:30:35Z",
                     "owner": "httpie",
                     "repo": "cli",
-                    "stars": 38460
-                  }
+                    "stars": 38465
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1832,7 +1940,8 @@
                     "owner": "dbcli",
                     "repo": "pgcli",
                     "stars": 13368
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1847,7 +1956,8 @@
                     "owner": "dbcli",
                     "repo": "mycli",
                     "stars": 11970
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1862,7 +1972,8 @@
                     "owner": "donnemartin",
                     "repo": "saws",
                     "stars": 5302
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1877,7 +1988,8 @@
                     "owner": "dbcli",
                     "repo": "litecli",
                     "stars": 3293
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1892,7 +2004,8 @@
                     "owner": "laixintao",
                     "repo": "iredis",
                     "stars": 2740
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -1907,7 +2020,8 @@
                     "owner": "cloudnativelabs",
                     "repo": "kube-shell",
                     "stars": 2390
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -1929,7 +2043,8 @@
                     "owner": "xonsh",
                     "repo": "xonsh",
                     "stars": 9622
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -1949,11 +2064,12 @@
                 "archived": false,
                 "id": 212037775,
                 "language": "Python",
-                "last_commit": "2026-08-26T04:19:00Z",
+                "last_commit": "2026-08-28T06:07:36Z",
                 "owner": "akfamily",
                 "repo": "akshare",
-                "stars": 22257
-              }
+                "stars": 22270
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1968,7 +2084,8 @@
                 "owner": "s3tools",
                 "repo": "s3cmd",
                 "stars": 4905
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -1983,7 +2100,8 @@
                 "owner": "bloomreach",
                 "repo": "s4cmd",
                 "stars": 1395
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来进行下载的库.",
@@ -2004,8 +2122,9 @@
                 "last_commit": "2026-06-25T11:12:50Z",
                 "owner": "ageitgey",
                 "repo": "face_recognition",
-                "stars": 56685
-              }
+                "stars": 56687
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2016,11 +2135,12 @@
                 "archived": false,
                 "id": 1488139,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:00:08Z",
+                "last_commit": "2026-08-27T13:16:25Z",
                 "owner": "thumbor",
                 "repo": "thumbor",
-                "stars": 10515
-              }
+                "stars": 10514
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2035,7 +2155,8 @@
                 "owner": "dylanaraps",
                 "repo": "pywal",
                 "stars": 9076
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2049,8 +2170,9 @@
                 "last_commit": "2026-03-25T03:05:38Z",
                 "owner": "lincolnloop",
                 "repo": "python-qrcode",
-                "stars": 4937
-              }
+                "stars": 4938
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2065,7 +2187,8 @@
                 "owner": "pymatting",
                 "repo": "pymatting",
                 "stars": 1914
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2080,7 +2203,8 @@
                 "owner": "emcconville",
                 "repo": "wand",
                 "stars": 1478
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2095,7 +2219,8 @@
                 "owner": "fogleman",
                 "repo": "Quads",
                 "stars": 1232
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2110,7 +2235,8 @@
                 "owner": "hhatto",
                 "repo": "nude.py",
                 "stars": 922
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2125,7 +2251,8 @@
                 "owner": "libvips",
                 "repo": "pyvips",
                 "stars": 812
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2140,7 +2267,8 @@
                 "owner": "WhyNotHugo",
                 "repo": "python-barcode",
                 "stars": 656
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2155,7 +2283,8 @@
                 "owner": "daboth",
                 "repo": "pagan",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2170,7 +2299,8 @@
                 "owner": "rossgoodwin",
                 "repo": "hmap",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来操作图像的库.",
@@ -2191,8 +2321,9 @@
                 "last_commit": "2026-07-22T11:59:34Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 88338
-              }
+                "stars": 88374
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2206,8 +2337,9 @@
                 "last_commit": "2026-07-13T19:52:40Z",
                 "owner": "madmaze",
                 "repo": "pytesseract",
-                "stars": 6383
-              }
+                "stars": 6384
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "光学字符识别库。",
@@ -2225,11 +2357,12 @@
                 "archived": false,
                 "id": 827590,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:13:12Z",
+                "last_commit": "2026-08-27T19:55:50Z",
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 15591
-              }
+                "stars": 15593
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2244,7 +2377,8 @@
                 "owner": "jiaaro",
                 "repo": "pydub",
                 "stars": 9793
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2258,8 +2392,9 @@
                 "last_commit": "2026-08-22T13:06:58Z",
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8576
-              }
+                "stars": 8578
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2273,8 +2408,9 @@
                 "last_commit": "2024-04-22T19:23:00Z",
                 "owner": "worldveil",
                 "repo": "dejavu",
-                "stars": 6784
-              }
+                "stars": 6783
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2288,8 +2424,9 @@
                 "last_commit": "2025-08-04T16:44:35Z",
                 "owner": "tyiannak",
                 "repo": "pyAudioAnalysis",
-                "stars": 6255
-              }
+                "stars": 6256
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2304,7 +2441,8 @@
                 "owner": "sergree",
                 "repo": "matchering",
                 "stars": 2615
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2319,7 +2457,8 @@
                 "owner": "globocom",
                 "repo": "m3u8",
                 "stars": 2276
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2334,7 +2473,8 @@
                 "owner": "keunwoochoi",
                 "repo": "kapre",
                 "stars": 947
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2349,7 +2489,8 @@
                 "owner": "tinytag",
                 "repo": "tinytag",
                 "stars": 833
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2364,7 +2505,8 @@
                 "owner": "danilobellini",
                 "repo": "audiolazy",
                 "stars": 711
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2379,7 +2521,8 @@
                 "owner": "echonest",
                 "repo": "pyechonest",
                 "stars": 680
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2394,7 +2537,8 @@
                 "owner": "beetbox",
                 "repo": "audioread",
                 "stars": 538
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2409,7 +2553,8 @@
                 "owner": "Parisson",
                 "repo": "TimeSide",
                 "stars": 394
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2424,7 +2569,8 @@
                 "owner": "StreetVoice",
                 "repo": "django-elastic-transcoder",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来操作音频的库",
@@ -2445,8 +2591,9 @@
                 "last_commit": "2026-05-18T07:11:58Z",
                 "owner": "abhiTronix",
                 "repo": "vidgear",
-                "stars": 3721
-              }
+                "stars": 3722
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2461,7 +2608,8 @@
                 "owner": "aizvorski",
                 "repo": "scikit-video",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来操作视频和 GIF 的库。",
@@ -2482,8 +2630,9 @@
                 "last_commit": "2026-07-12T19:49:44Z",
                 "owner": "geopy",
                 "repo": "geopy",
-                "stars": 4856
-              }
+                "stars": 4857
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2498,7 +2647,8 @@
                 "owner": "SmileyChris",
                 "repo": "django-countries",
                 "stars": 1532
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2513,7 +2663,8 @@
                 "owner": "maxmind",
                 "repo": "GeoIP2-python",
                 "stars": 1217
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2528,7 +2679,8 @@
                 "owner": "jazzband",
                 "repo": "geojson",
                 "stars": 994
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2543,7 +2695,8 @@
                 "owner": "appliedsec",
                 "repo": "pygeoip",
                 "stars": 478
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2558,7 +2711,8 @@
                 "owner": "maxmind",
                 "repo": "geoip-api-python",
                 "stars": 229
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "地理编码地址以及用来处理经纬度的库。",
@@ -2576,11 +2730,12 @@
                 "archived": false,
                 "id": 13258039,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:06:21Z",
+                "last_commit": "2026-08-28T03:41:38Z",
                 "owner": "aio-libs",
                 "repo": "aiohttp",
                 "stars": 16529
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2594,8 +2749,9 @@
                 "last_commit": "2026-03-29T00:19:16Z",
                 "owner": "encode",
                 "repo": "httpx",
-                "stars": 15444
-              }
+                "stars": 15449
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2610,7 +2766,8 @@
                 "owner": "spyoungtech",
                 "repo": "grequests",
                 "stars": 4573
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2624,8 +2781,9 @@
                 "last_commit": "2026-08-26T15:22:19Z",
                 "owner": "urllib3",
                 "repo": "urllib3",
-                "stars": 4051
-              }
+                "stars": 4052
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2640,7 +2798,8 @@
                 "owner": "twisted",
                 "repo": "treq",
                 "stars": 604
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -2655,7 +2814,8 @@
                 "owner": "jcgregorio",
                 "repo": "httplib2",
                 "stars": 380
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "使用 HTTP 的库。",
@@ -2677,7 +2837,8 @@
                 "owner": "msiemens",
                 "repo": "tinydb",
                 "stars": 7557
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "Python 实现的数据库。",
@@ -2704,7 +2865,8 @@
                     "owner": "PyMySQL",
                     "repo": "PyMySQL",
                     "stars": 7845
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2719,7 +2881,8 @@
                     "owner": "PyMySQL",
                     "repo": "mysqlclient",
                     "stars": 2536
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2734,7 +2897,8 @@
                     "owner": "aio-libs",
                     "repo": "aiomysql",
                     "stars": 1896
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -2756,7 +2920,8 @@
                     "owner": "gmr",
                     "repo": "queries",
                     "stars": 254
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -2774,11 +2939,12 @@
                     "archived": false,
                     "id": 363150,
                     "language": "Python",
-                    "last_commit": "2026-08-26T11:23:10Z",
+                    "last_commit": "2026-08-27T13:32:48Z",
                     "owner": "redis",
                     "repo": "redis-py",
-                    "stars": 13621
-                  }
+                    "stars": 13622
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2789,11 +2955,12 @@
                     "archived": false,
                     "id": 5934517,
                     "language": "Python",
-                    "last_commit": "2026-08-24T18:04:17Z",
+                    "last_commit": "2026-08-27T18:04:45Z",
                     "owner": "dpkp",
                     "repo": "kafka-python",
                     "stars": 5898
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2808,7 +2975,8 @@
                     "owner": "apache",
                     "repo": "cassandra-python-driver",
                     "stars": 1427
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2823,7 +2991,8 @@
                     "owner": "jonathanslenders",
                     "repo": "asyncio-redis",
                     "stars": 549
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2838,7 +3007,8 @@
                     "owner": "pycassa",
                     "repo": "pycassa",
                     "stars": 498
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2853,7 +3023,8 @@
                     "owner": "deldotdr",
                     "repo": "txRedis",
                     "stars": 127
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2868,7 +3039,8 @@
                     "owner": "driftx",
                     "repo": "Telephus",
                     "stars": 94
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -2890,7 +3062,8 @@
                     "owner": "mongodb",
                     "repo": "motor",
                     "stars": 2526
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -2915,11 +3088,12 @@
                     "archived": false,
                     "id": 979480,
                     "language": "Python",
-                    "last_commit": "2026-08-27T02:16:05Z",
+                    "last_commit": "2026-08-27T21:26:30Z",
                     "owner": "coleifer",
                     "repo": "peewee",
                     "stars": 11986
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2934,7 +3108,8 @@
                     "owner": "pudo",
                     "repo": "dataset",
                     "stars": 4871
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2949,7 +3124,8 @@
                     "owner": "ponyorm",
                     "repo": "pony",
                     "stars": 3819
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2964,7 +3140,8 @@
                     "owner": "dahlia",
                     "repo": "awesome-sqlalchemy",
                     "stars": 3055
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2979,7 +3156,8 @@
                     "owner": "encode",
                     "repo": "orm",
                     "stars": 1859
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -2994,7 +3172,8 @@
                     "owner": "sdispater",
                     "repo": "orator",
                     "stars": 1414
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3009,7 +3188,8 @@
                     "owner": "web2py",
                     "repo": "pydal",
                     "stars": 536
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "group",
@@ -3029,7 +3209,8 @@
                         "owner": "dahlia",
                         "repo": "awesome-sqlalchemy",
                         "stars": 3055
-                      }
+                      },
+                      "first_seen": "2026-08-28T06:55:01.120Z"
                     }
                   ]
                 }
@@ -3053,7 +3234,8 @@
                     "owner": "pynamodb",
                     "repo": "PynamoDB",
                     "stars": 2649
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3068,7 +3250,8 @@
                     "owner": "django-nonrel",
                     "repo": "mongodb-engine",
                     "stars": 868
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3083,7 +3266,8 @@
                     "owner": "kiddouk",
                     "repo": "redisco",
                     "stars": 443
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3098,7 +3282,8 @@
                     "owner": "stephenmcd",
                     "repo": "hot-redis",
                     "stars": 295
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3113,7 +3298,8 @@
                     "owner": "stevearc",
                     "repo": "flywheel",
                     "stars": 127
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -3135,7 +3321,8 @@
                     "owner": "terrible-ideas",
                     "repo": "butterdb",
                     "stars": 339
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -3159,7 +3346,8 @@
                 "owner": "sanic-org",
                 "repo": "sanic",
                 "stars": 18645
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3174,7 +3362,8 @@
                 "owner": "MasoniteFramework",
                 "repo": "masonite",
                 "stars": 2360
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "group",
@@ -3194,7 +3383,8 @@
                     "owner": "wsvincent",
                     "repo": "awesome-django",
                     "stars": 11221
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3209,7 +3399,8 @@
                     "owner": "shahraizali",
                     "repo": "awesome-django",
                     "stars": 1916
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -3230,8 +3421,9 @@
                     "last_commit": "2026-08-17T02:06:31Z",
                     "owner": "humiaozuzu",
                     "repo": "awesome-flask",
-                    "stars": 12755
-                  }
+                    "stars": 12756
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -3253,7 +3445,8 @@
                     "owner": "uralbash",
                     "repo": "awesome-pyramid",
                     "stars": 576
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -3276,8 +3469,9 @@
                 "last_commit": "2026-08-06T05:09:41Z",
                 "owner": "django",
                 "repo": "channels",
-                "stars": 6353
-              }
+                "stars": 6352
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3288,11 +3482,12 @@
                 "archived": false,
                 "id": 9113587,
                 "language": "Python",
-                "last_commit": "2026-08-26T06:06:33Z",
+                "last_commit": "2026-08-27T16:01:19Z",
                 "owner": "python-websockets",
                 "repo": "websockets",
-                "stars": 5714
-              }
+                "stars": 5715
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3307,7 +3502,8 @@
                 "owner": "crossbario",
                 "repo": "autobahn-python",
                 "stars": 2543
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "Web socket 相关库。",
@@ -3325,11 +3521,12 @@
                 "archived": false,
                 "id": 704114,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:58:03Z",
+                "last_commit": "2026-08-27T14:13:28Z",
                 "owner": "django-guardian",
                 "repo": "django-guardian",
-                "stars": 3910
-              }
+                "stars": 3909
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3344,7 +3541,8 @@
                 "owner": "dfunckt",
                 "repo": "django-rules",
                 "stars": 1977
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3359,7 +3557,8 @@
                 "owner": "neuman",
                 "repo": "python-carteblanche",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "允许或拒绝用户访问数据或功能的库。",
@@ -3377,11 +3576,12 @@
                 "archived": false,
                 "id": 2113067,
                 "language": "Python",
-                "last_commit": "2026-08-26T13:44:13Z",
+                "last_commit": "2026-08-27T14:16:51Z",
                 "owner": "indico",
                 "repo": "indico",
                 "stars": 2100
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "内容管理系统。",
@@ -3403,7 +3603,8 @@
                 "owner": "awesto",
                 "repo": "django-shop",
                 "stars": 3320
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3418,7 +3619,8 @@
                 "owner": "agiliq",
                 "repo": "merchant",
                 "stars": 1020
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3433,7 +3635,8 @@
                 "owner": "stephenmcd",
                 "repo": "cartridge",
                 "stars": 712
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3448,7 +3651,8 @@
                 "owner": "MicroPyramid",
                 "repo": "forex-python",
                 "stars": 710
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3463,7 +3667,8 @@
                 "owner": "lxneng",
                 "repo": "alipay",
                 "stars": 326
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3478,7 +3683,8 @@
                 "owner": "carlospalol",
                 "repo": "money",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3493,7 +3699,8 @@
                 "owner": "Alir3z4",
                 "repo": "python-currencies",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用于电子商务以及支付的框架和库。",
@@ -3520,7 +3727,8 @@
                     "owner": "5monkeys",
                     "repo": "django-formapi",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -3542,7 +3750,8 @@
                     "owner": "marselester",
                     "repo": "flask-api-utils",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3557,7 +3766,8 @@
                     "owner": "nicolaiarocci",
                     "repo": "eve",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -3578,8 +3788,9 @@
                     "last_commit": "2026-08-26T17:54:56Z",
                     "owner": "fastapi",
                     "repo": "fastapi",
-                    "stars": 101874
-                  }
+                    "stars": 101893
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3594,7 +3805,8 @@
                     "owner": "hugapi",
                     "repo": "hug",
                     "stars": 6883
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3609,7 +3821,8 @@
                     "owner": "encode",
                     "repo": "apistar",
                     "stars": 5543
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3624,7 +3837,8 @@
                     "owner": "jeffknupp",
                     "repo": "sandman",
                     "stars": 2289
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3639,7 +3853,8 @@
                     "owner": "jeffknupp",
                     "repo": "sandman2",
                     "stars": 2042
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3654,7 +3869,8 @@
                     "owner": "vertical-knowledge",
                     "repo": "ripozo",
                     "stars": 200
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -3682,8 +3898,9 @@
                     "last_commit": "2026-08-13T10:03:36Z",
                     "owner": "pennersr",
                     "repo": "django-allauth",
-                    "stars": 10375
-                  }
+                    "stars": 10374
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3697,8 +3914,9 @@
                     "last_commit": "2026-08-27T04:41:40Z",
                     "owner": "authlib",
                     "repo": "authlib",
-                    "stars": 5406
-                  }
+                    "stars": 5407
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3713,7 +3931,8 @@
                     "owner": "django-oauth",
                     "repo": "django-oauth-toolkit",
                     "stars": 3334
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3728,7 +3947,8 @@
                     "owner": "joestump",
                     "repo": "python-oauth2",
                     "stars": 3009
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3743,7 +3963,8 @@
                     "owner": "oauthlib",
                     "repo": "oauthlib",
                     "stars": 2980
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3758,7 +3979,8 @@
                     "owner": "omab",
                     "repo": "python-social-auth",
                     "stars": 2800
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3773,7 +3995,8 @@
                     "owner": "litl",
                     "repo": "rauth",
                     "stars": 1600
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3788,7 +4011,8 @@
                     "owner": "lepture",
                     "repo": "flask-oauthlib",
                     "stars": 1446
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3803,7 +4027,8 @@
                     "owner": "caffeinehit",
                     "repo": "django-oauth2-provider",
                     "stars": 337
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3818,7 +4043,8 @@
                     "owner": "demianbrecht",
                     "repo": "sanction",
                     "stars": 189
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -3840,7 +4066,8 @@
                     "owner": "jpadilla",
                     "repo": "pyjwt",
                     "stars": 5695
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3855,7 +4082,8 @@
                     "owner": "mpdavis",
                     "repo": "python-jose",
                     "stars": 1756
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3870,7 +4098,8 @@
                     "owner": "davedoesdev",
                     "repo": "python-jwt",
                     "stars": 222
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -3885,7 +4114,8 @@
                     "owner": "brianloveswords",
                     "repo": "python-jws",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -3908,8 +4138,9 @@
                 "last_commit": "2025-06-14T20:35:04Z",
                 "owner": "pallets",
                 "repo": "jinja",
-                "stars": 11752
-              }
+                "stars": 11754
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "模板生成和词法解析的库和工具。",
@@ -3931,7 +4162,8 @@
                 "owner": "coleifer",
                 "repo": "huey",
                 "stars": 6014
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3946,7 +4178,8 @@
                 "owner": "Bogdanp",
                 "repo": "dramatiq",
                 "stars": 5309
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3961,7 +4194,8 @@
                 "owner": "pricingassistant",
                 "repo": "mrq",
                 "stars": 892
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -3976,7 +4210,8 @@
                 "owner": "rdegges",
                 "repo": "simpleq",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "处理事件以及任务队列的库。",
@@ -3998,7 +4233,8 @@
                 "owner": "elastic",
                 "repo": "elasticsearch-dsl-py",
                 "stars": 3869
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4013,7 +4249,8 @@
                 "owner": "django-haystack",
                 "repo": "django-haystack",
                 "stars": 3734
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4024,11 +4261,12 @@
                 "archived": false,
                 "id": 240864,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:11:40Z",
+                "last_commit": "2026-08-27T22:43:05Z",
                 "owner": "django-haystack",
                 "repo": "pysolr",
                 "stars": 701
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4043,7 +4281,8 @@
                 "owner": "search5",
                 "repo": "solrpy",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "对数据进行索引和执行搜索查询的库和软件。",
@@ -4064,8 +4303,9 @@
                 "last_commit": "2025-12-04T21:26:10Z",
                 "owner": "tschellenbach",
                 "repo": "Stream-Framework",
-                "stars": 4743
-              }
+                "stars": 4744
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4080,7 +4320,8 @@
                 "owner": "justquick",
                 "repo": "django-activity-stream",
                 "stars": 2442
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来创建用户活动的库。",
@@ -4102,7 +4343,8 @@
                 "owner": "django-compressor",
                 "repo": "django-compressor",
                 "stars": 2871
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4117,7 +4359,8 @@
                 "owner": "jazzband",
                 "repo": "django-pipeline",
                 "stars": 1540
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4132,7 +4375,8 @@
                 "owner": "jaysonsantos",
                 "repo": "jinja-assets-compressor",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "管理、压缩、缩小网站资源的工具。",
@@ -4154,7 +4398,8 @@
                 "owner": "Suor",
                 "repo": "django-cacheops",
                 "stars": 2273
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4169,7 +4414,8 @@
                 "owner": "django-cache-machine",
                 "repo": "django-cache-machine",
                 "stars": 884
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4184,7 +4430,8 @@
                 "owner": "lericson",
                 "repo": "pylibmc",
                 "stars": 492
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4199,7 +4446,8 @@
                 "owner": "jmoiron",
                 "repo": "johnny-cache",
                 "stars": 310
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4214,7 +4462,8 @@
                 "owner": "5monkeys",
                 "repo": "django-viewlet",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "缓存数据的库。",
@@ -4236,7 +4485,8 @@
                 "owner": "modoboa",
                 "repo": "modoboa",
                 "stars": 3531
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4251,7 +4501,8 @@
                 "owner": "nylas",
                 "repo": "sync-engine",
                 "stars": 3496
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4266,7 +4517,8 @@
                 "owner": "mailgun",
                 "repo": "flanker",
                 "stars": 1650
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4281,7 +4533,8 @@
                 "owner": "billzhong",
                 "repo": "inbox.py",
                 "stars": 1501
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4296,7 +4549,8 @@
                 "owner": "mailgun",
                 "repo": "talon",
                 "stars": 1342
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4311,7 +4565,8 @@
                 "owner": "martinrusev",
                 "repo": "imbox",
                 "stars": 1217
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4326,7 +4581,8 @@
                 "owner": "zedshaw",
                 "repo": "lamson",
                 "stars": 740
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4341,7 +4597,8 @@
                 "owner": "marrow",
                 "repo": "mailer",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4356,7 +4613,8 @@
                 "owner": "marrow",
                 "repo": "mailer",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4371,7 +4629,8 @@
                 "owner": "StreetVoice",
                 "repo": "django-celery-ses",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4386,7 +4645,8 @@
                 "owner": "wolph",
                 "repo": "mailjet",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4401,7 +4661,8 @@
                 "owner": "moggers87",
                 "repo": "salmon",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来发送和解析电子邮件的库。",
@@ -4423,7 +4684,8 @@
                 "owner": "ovalhub",
                 "repo": "pyicu",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来进行国际化的库。",
@@ -4445,7 +4707,8 @@
                 "owner": "gruns",
                 "repo": "furl",
                 "stars": 2810
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4456,11 +4719,12 @@
                 "archived": false,
                 "id": 16899445,
                 "language": "Python",
-                "last_commit": "2026-08-26T20:08:57Z",
+                "last_commit": "2026-08-27T22:12:12Z",
                 "owner": "marshmallow-code",
                 "repo": "webargs",
                 "stars": 1406
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4475,7 +4739,8 @@
                 "owner": "ellisonleao",
                 "repo": "pyshorteners",
                 "stars": 405
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4490,7 +4755,8 @@
                 "owner": "codeinthehole",
                 "repo": "purl",
                 "stars": 303
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "解析 URLs 的库",
@@ -4511,8 +4777,9 @@
                 "last_commit": "2026-08-19T19:04:24Z",
                 "owner": "martinblech",
                 "repo": "xmltodict",
-                "stars": 5751
-              }
+                "stars": 5752
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4523,11 +4790,12 @@
                 "archived": false,
                 "id": 1755413,
                 "language": "Python",
-                "last_commit": "2026-08-26T03:06:12Z",
+                "last_commit": "2026-08-28T02:51:44Z",
                 "owner": "xhtml2pdf",
                 "repo": "xhtml2pdf",
                 "stars": 2388
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4542,7 +4810,8 @@
                 "owner": "gawel",
                 "repo": "pyquery",
                 "stars": 2377
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4557,7 +4826,8 @@
                 "owner": "html5lib",
                 "repo": "html5lib-python",
                 "stars": 1223
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4572,7 +4842,8 @@
                 "owner": "pallets",
                 "repo": "markupsafe",
                 "stars": 696
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4587,7 +4858,8 @@
                 "owner": "stchris",
                 "repo": "untangle",
                 "stars": 630
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4602,7 +4874,8 @@
                 "owner": "kennethreitz",
                 "repo": "requests-html",
                 "stars": 327
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4616,8 +4889,9 @@
                 "last_commit": "2024-04-30T19:43:29Z",
                 "owner": "binux",
                 "repo": "pyspider",
-                "stars": 16774
-              }
+                "stars": 16773
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4632,7 +4906,8 @@
                 "owner": "scrapinghub",
                 "repo": "portia",
                 "stars": 9503
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4646,8 +4921,9 @@
                 "last_commit": "2026-08-04T02:43:34Z",
                 "owner": "MechanicalSoup",
                 "repo": "MechanicalSoup",
-                "stars": 4888
-              }
+                "stars": 4887
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4662,7 +4938,8 @@
                 "owner": "jmcarp",
                 "repo": "robobrowser",
                 "stars": 3692
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4677,7 +4954,8 @@
                 "owner": "my8100",
                 "repo": "scrapydweb",
                 "stars": 3410
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4692,7 +4970,8 @@
                 "owner": "qinxuye",
                 "repo": "cola",
                 "stars": 1499
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4707,7 +4986,8 @@
                 "owner": "matiasb",
                 "repo": "demiurge",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "处理 HTML 和 XML 的库。\n爬取网络站点的库",
@@ -4728,8 +5008,9 @@
                 "last_commit": "2026-08-09T07:55:32Z",
                 "owner": "codelucas",
                 "repo": "newspaper",
-                "stars": 15144
-              }
+                "stars": 15145
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4740,11 +5021,12 @@
                 "archived": false,
                 "id": 21476229,
                 "language": "HTML",
-                "last_commit": "2026-08-27T12:01:02Z",
+                "last_commit": "2026-08-27T13:08:18Z",
                 "owner": "deanmalmgren",
                 "repo": "textract",
                 "stars": 4699
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4759,7 +5041,8 @@
                 "owner": "grangier",
                 "repo": "python-goose",
                 "stars": 4106
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4774,7 +5057,8 @@
                 "owner": "miso-belica",
                 "repo": "sumy",
                 "stars": 3701
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4785,11 +5069,12 @@
                 "archived": false,
                 "id": 1692659,
                 "language": "HTML",
-                "last_commit": "2026-08-26T18:54:43Z",
+                "last_commit": "2026-08-27T19:40:50Z",
                 "owner": "buriy",
                 "repo": "python-readability",
                 "stars": 2894
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4804,7 +5089,8 @@
                 "owner": "Alir3z4",
                 "repo": "html2text",
                 "stars": 2168
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4818,8 +5104,9 @@
                 "last_commit": "2026-07-23T01:54:20Z",
                 "owner": "goose3",
                 "repo": "goose3",
-                "stars": 912
-              }
+                "stars": 913
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4834,7 +5121,8 @@
                 "owner": "coleifer",
                 "repo": "micawber",
                 "stars": 680
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4849,7 +5137,8 @@
                 "owner": "michaelhelmick",
                 "repo": "lassie",
                 "stars": 629
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4864,7 +5153,8 @@
                 "owner": "erikriver",
                 "repo": "opengraph",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4879,7 +5169,8 @@
                 "owner": "vinta",
                 "repo": "haul",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4894,7 +5185,8 @@
                 "owner": "Alir3z4",
                 "repo": "python-sanitize",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用于进行网页内容提取的库。",
@@ -4912,11 +5204,12 @@
                 "archived": false,
                 "id": 12082924,
                 "language": "Python",
-                "last_commit": "2026-08-17T21:34:11Z",
+                "last_commit": "2026-08-28T06:08:46Z",
                 "owner": "zostera",
                 "repo": "django-bootstrap3",
                 "stars": 2332
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4927,11 +5220,12 @@
                 "archived": false,
                 "id": 89379547,
                 "language": "Python",
-                "last_commit": "2026-08-17T21:32:56Z",
+                "last_commit": "2026-08-28T06:06:44Z",
                 "owner": "zostera",
                 "repo": "django-bootstrap4",
                 "stars": 1024
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4946,7 +5240,8 @@
                 "owner": "WiserTogether",
                 "repo": "django-remote-forms",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "进行表单操作的库。",
@@ -4964,11 +5259,12 @@
                 "archived": false,
                 "id": 3072629,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:37:54Z",
+                "last_commit": "2026-08-27T14:07:40Z",
                 "owner": "python-jsonschema",
                 "repo": "jsonschema",
                 "stars": 4977
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4983,7 +5279,8 @@
                 "owner": "keleshev",
                 "repo": "schema",
                 "stars": 2946
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -4998,7 +5295,8 @@
                 "owner": "schematics",
                 "repo": "schematics",
                 "stars": 2587
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5013,7 +5311,8 @@
                 "owner": "alecthomas",
                 "repo": "voluptuous",
                 "stars": 1850
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5028,7 +5327,8 @@
                 "owner": "podio",
                 "repo": "valideer",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5043,7 +5343,8 @@
                 "owner": "ambitioninc",
                 "repo": "kmatch",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "数据验证库。多用于表单验证。",
@@ -5065,7 +5366,8 @@
                 "owner": "marshmallow-code",
                 "repo": "marshmallow",
                 "stars": 7242
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5080,7 +5382,8 @@
                 "owner": "ultrajson",
                 "repo": "ultrajson",
                 "stars": 4497
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5095,7 +5398,8 @@
                 "owner": "TkTech",
                 "repo": "pysimdjson",
                 "stars": 772
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5110,7 +5414,8 @@
                 "owner": "python-rapidjson",
                 "repo": "python-rapidjson",
                 "stars": 532
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "复杂数据类型序列化相关库。",
@@ -5132,7 +5437,8 @@
                 "owner": "mbi",
                 "repo": "django-simple-captcha",
                 "stars": 1421
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5147,7 +5453,8 @@
                 "owner": "moqada",
                 "repo": "django-simple-spam-blocker",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "帮助你和电子垃圾进行战斗的库。",
@@ -5169,7 +5476,8 @@
                 "owner": "jazzband",
                 "repo": "django-taggit",
                 "stars": 3446
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来进行标记的库。",
@@ -5190,8 +5498,9 @@
                 "last_commit": "2026-07-22T19:00:08Z",
                 "owner": "ajenti",
                 "repo": "ajenti",
-                "stars": 7962
-              }
+                "stars": 7963
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5206,7 +5515,8 @@
                 "owner": "mher",
                 "repo": "flower",
                 "stars": 7234
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5221,7 +5531,8 @@
                 "owner": "pallets-eco",
                 "repo": "flask-admin",
                 "stars": 6071
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5235,8 +5546,9 @@
                 "last_commit": "2025-12-16T05:44:15Z",
                 "owner": "sshwsfc",
                 "repo": "xadmin",
-                "stars": 4751
-              }
+                "stars": 4750
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5251,7 +5563,8 @@
                 "owner": "geex-arts",
                 "repo": "django-jet",
                 "stars": 3622
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5265,8 +5578,9 @@
                 "last_commit": "2026-08-04T20:41:05Z",
                 "owner": "wooey",
                 "repo": "Wooey",
-                "stars": 2246
-              }
+                "stars": 2245
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5280,8 +5594,9 @@
                 "last_commit": "2026-08-18T16:58:11Z",
                 "owner": "jet-admin",
                 "repo": "jet-bridge",
-                "stars": 1798
-              }
+                "stars": 1797
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "管理界面库。",
@@ -5303,7 +5618,8 @@
                 "owner": "Miserlou",
                 "repo": "Zappa",
                 "stars": 11822
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5318,7 +5634,8 @@
                 "owner": "nficano",
                 "repo": "python-lambda",
                 "stars": 1514
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "使用 Python 开发 Serverless 模型相关的库。",
@@ -5340,7 +5657,8 @@
                 "owner": "eudicots",
                 "repo": "Cactus",
                 "stars": 3466
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5355,7 +5673,8 @@
                 "owner": "sunainapai",
                 "repo": "makesite",
                 "stars": 1868
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "静态站点生成器是一个软件，它把文本和模板作为输入，然后输出 HTML 文件。",
@@ -5377,7 +5696,8 @@
                 "owner": "amoffat",
                 "repo": "sh",
                 "stars": 7242
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5392,7 +5712,8 @@
                 "owner": "not-kennethreitz",
                 "repo": "envoy",
                 "stars": 2261
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5407,7 +5728,8 @@
                 "owner": "amitt001",
                 "repo": "delegator.py",
                 "stars": 1742
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "操作系统进程启动及通信库。",
@@ -5429,7 +5751,8 @@
                 "owner": "MagicStack",
                 "repo": "uvloop",
                 "stars": 11888
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5444,7 +5767,8 @@
                 "owner": "python-greenlet",
                 "repo": "greenlet",
                 "stars": 1841
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5459,7 +5783,8 @@
                 "owner": "python-greenlet",
                 "repo": "greenlet",
                 "stars": 1841
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5474,7 +5799,8 @@
                 "owner": "madisonmay",
                 "repo": "Tomorrow",
                 "stars": 1447
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5489,7 +5815,8 @@
                 "owner": "soravux",
                 "repo": "scoop",
                 "stars": 661
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用以进行并发和并行操作的库。",
@@ -5510,8 +5837,9 @@
                 "last_commit": "2026-08-27T03:44:56Z",
                 "owner": "python-trio",
                 "repo": "trio",
-                "stars": 7307
-              }
+                "stars": 7308
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5522,11 +5850,12 @@
                 "archived": false,
                 "id": 112169994,
                 "language": "Python",
-                "last_commit": "2026-08-09T07:26:44Z",
+                "last_commit": "2026-08-27T22:18:12Z",
                 "owner": "elliotgao2",
                 "repo": "toapi",
                 "stars": 3555
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5541,7 +5870,8 @@
                 "owner": "quantmind",
                 "repo": "pulsar",
                 "stars": 1845
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5556,7 +5886,8 @@
                 "owner": "dieseldev",
                 "repo": "diesel",
                 "stars": 580
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5571,7 +5902,8 @@
                 "owner": "smira",
                 "repo": "txZMQ",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用于网络编程的库。",
@@ -5593,7 +5925,8 @@
                 "owner": "crossbario",
                 "repo": "autobahn-python",
                 "stars": 2543
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5608,7 +5941,8 @@
                 "owner": "crossbario",
                 "repo": "crossbar",
                 "stars": 2064
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5623,7 +5957,8 @@
                 "owner": "stephenmcd",
                 "repo": "django-socketio",
                 "stars": 1314
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5638,7 +5973,8 @@
                 "owner": "Lawouach",
                 "repo": "WebSocket-for-Python",
                 "stars": 1127
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "帮助使用 WebSocket 的库。",
@@ -5656,11 +5992,12 @@
                 "archived": false,
                 "id": 19062086,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:40:55Z",
+                "last_commit": "2026-08-27T17:17:34Z",
                 "owner": "hivesolutions",
                 "repo": "netius",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "兼容 WSGI 的 web 服务器",
@@ -5681,8 +6018,9 @@
                 "last_commit": "2026-08-24T13:03:17Z",
                 "owner": "Kludex",
                 "repo": "uvicorn",
-                "stars": 10927
-              }
+                "stars": 10930
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5697,7 +6035,8 @@
                 "owner": "django",
                 "repo": "daphne",
                 "stars": 2679
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "兼容 ASGI 的 web 服务器。",
@@ -5719,7 +6058,8 @@
                 "owner": "0rpc",
                 "repo": "zerorpc-python",
                 "stars": 3236
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5734,7 +6074,8 @@
                 "owner": "tomerfiliba-org",
                 "repo": "rpyc",
                 "stars": 1705
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5749,7 +6090,8 @@
                 "owner": "joshmarshall",
                 "repo": "jsonrpclib",
                 "stars": 450
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "兼容 RPC 的服务器。",
@@ -5771,7 +6113,8 @@
                 "owner": "davidaurelio",
                 "repo": "hashids-python",
                 "stars": 1411
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5786,7 +6129,8 @@
                 "owner": "pyca",
                 "repo": "pynacl",
                 "stars": 1205
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": null,
@@ -5808,7 +6152,8 @@
                 "owner": "hoffstadt",
                 "repo": "DearPyGui",
                 "stars": 15587
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5819,11 +6164,12 @@
                 "archived": false,
                 "id": 140614233,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:57:02Z",
+                "last_commit": "2026-08-27T22:12:15Z",
                 "owner": "PySimpleGUI",
                 "repo": "PySimpleGUI",
-                "stars": 13812
-              }
+                "stars": 13811
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5838,7 +6184,8 @@
                 "owner": "python-eel",
                 "repo": "Eel",
                 "stars": 6736
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5849,11 +6196,12 @@
                 "archived": false,
                 "id": 26908699,
                 "language": "Python",
-                "last_commit": "2026-08-11T08:58:10Z",
+                "last_commit": "2026-08-27T12:53:21Z",
                 "owner": "r0x0r",
                 "repo": "pywebview",
-                "stars": 5993
-              }
+                "stars": 5994
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5868,7 +6216,8 @@
                 "owner": "beeware",
                 "repo": "toga",
                 "stars": 5406
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5883,7 +6232,8 @@
                 "owner": "flexxui",
                 "repo": "flexx",
                 "stars": 3329
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5898,7 +6248,8 @@
                 "owner": "nucleic",
                 "repo": "enaml",
                 "stars": 1574
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来创建图形用户界面程序的库。",
@@ -5920,7 +6271,8 @@
                 "owner": "Delgan",
                 "repo": "loguru",
                 "stars": 24087
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -5931,11 +6283,12 @@
                 "archived": false,
                 "id": 137814779,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:00:16Z",
+                "last_commit": "2026-08-28T02:33:55Z",
                 "owner": "getsentry",
                 "repo": "sentry-python",
                 "stars": 2201
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来生成和操作日志的库。",
@@ -5962,7 +6315,8 @@
                     "owner": "robotframework",
                     "repo": "robotframework",
                     "stars": 11847
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -5976,8 +6330,9 @@
                     "last_commit": "2026-08-25T07:13:15Z",
                     "owner": "HypothesisWorks",
                     "repo": "hypothesis",
-                    "stars": 8914
-                  }
+                    "stars": 8916
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -5992,7 +6347,8 @@
                     "owner": "nose-devs",
                     "repo": "nose2",
                     "stars": 826
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6007,7 +6363,8 @@
                     "owner": "CleanCut",
                     "repo": "green",
                     "stars": 805
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6022,7 +6379,8 @@
                     "owner": "benjamin-hodgson",
                     "repo": "Contexts",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6037,7 +6395,8 @@
                     "owner": "drslump",
                     "repo": "pyshould",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -6058,8 +6417,9 @@
                     "last_commit": "2026-08-26T17:46:29Z",
                     "owner": "locustio",
                     "repo": "locust",
-                    "stars": 28107
-                  }
+                    "stars": 28109
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6073,8 +6433,9 @@
                     "last_commit": "2024-08-20T18:34:57Z",
                     "owner": "asweigart",
                     "repo": "pyautogui",
-                    "stars": 12668
-                  }
+                    "stars": 12669
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6085,11 +6446,12 @@
                     "archived": false,
                     "id": 203157084,
                     "language": "Python",
-                    "last_commit": "2026-08-26T20:12:36Z",
+                    "last_commit": "2026-08-28T06:54:36Z",
                     "owner": "schemathesis",
                     "repo": "schemathesis",
                     "stars": 3564
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6104,7 +6466,8 @@
                     "owner": "sixpack",
                     "repo": "sixpack",
                     "stars": 1754
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -6126,7 +6489,8 @@
                     "owner": "spulec",
                     "repo": "freezegun",
                     "stars": 4525
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6141,7 +6505,8 @@
                     "owner": "getsentry",
                     "repo": "responses",
                     "stars": 4345
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6155,8 +6520,9 @@
                     "last_commit": "2026-08-25T13:33:42Z",
                     "owner": "kevin1024",
                     "repo": "vcrpy",
-                    "stars": 2984
-                  }
+                    "stars": 2986
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6171,7 +6537,8 @@
                     "owner": "patrys",
                     "repo": "httmock",
                     "stars": 472
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6186,7 +6553,8 @@
                     "owner": "mindflayer",
                     "repo": "python-mocket",
                     "stars": 311
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -6208,7 +6576,8 @@
                     "owner": "klen",
                     "repo": "mixer",
                     "stars": 954
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -6230,7 +6599,8 @@
                     "owner": "lk-geimfari",
                     "repo": "mimesis",
                     "stars": 4839
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6245,7 +6615,8 @@
                     "owner": "emirozer",
                     "repo": "fake2db",
                     "stars": 2347
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -6267,7 +6638,8 @@
                     "owner": "ajalt",
                     "repo": "fuckitpy",
                     "stars": 5289
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -6290,8 +6662,9 @@
                 "last_commit": "2026-08-26T11:46:12Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38278
-              }
+                "stars": 38286
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -6305,8 +6678,9 @@
                 "last_commit": "2026-06-04T21:23:34Z",
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15241
-              }
+                "stars": 15242
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -6320,8 +6694,9 @@
                 "last_commit": "2026-07-21T05:22:53Z",
                 "owner": "Manisso",
                 "repo": "fsociety",
-                "stars": 12276
-              }
+                "stars": 12275
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "渗透测试相关框架和工具。",
@@ -6347,8 +6722,9 @@
                     "last_commit": "2026-06-26T16:04:19Z",
                     "owner": "facebook",
                     "repo": "pyre-check",
-                    "stars": 7171
-                  }
+                    "stars": 7172
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6363,7 +6739,8 @@
                     "owner": "python",
                     "repo": "typeshed",
                     "stars": 5115
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ],
               "repo_info": {
@@ -6373,8 +6750,9 @@
                 "last_commit": "2026-06-19T06:03:10Z",
                 "owner": "typeddjango",
                 "repo": "awesome-python-typing",
-                "stars": 1979
-              }
+                "stars": 1980
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "group",
@@ -6394,7 +6772,8 @@
                     "owner": "jendrikseipp",
                     "repo": "vulture",
                     "stars": 4780
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6408,8 +6787,9 @@
                     "last_commit": "2025-07-27T18:18:05Z",
                     "owner": "scottrogowski",
                     "repo": "code2flow",
-                    "stars": 4604
-                  }
+                    "stars": 4603
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6424,7 +6804,8 @@
                     "owner": "prospector-dev",
                     "repo": "prospector",
                     "stars": 2087
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6439,7 +6820,8 @@
                     "owner": "gak",
                     "repo": "pycallgraph",
                     "stars": 1858
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6454,7 +6836,8 @@
                     "owner": "yinwang0",
                     "repo": "pysonar2",
                     "stars": 1425
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -6476,7 +6859,8 @@
                     "owner": "google",
                     "repo": "yapf",
                     "stars": 13981
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6491,7 +6875,8 @@
                     "owner": "wemake-services",
                     "repo": "wemake-python-styleguide",
                     "stars": 2895
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "group",
@@ -6511,7 +6896,8 @@
                         "owner": "DmytroLitvinov",
                         "repo": "awesome-flake8-extensions",
                         "stars": 1278
-                      }
+                      },
+                      "first_seen": "2026-08-28T06:55:01.120Z"
                     }
                   ]
                 }
@@ -6534,8 +6920,9 @@
                     "last_commit": "2026-08-20T13:01:16Z",
                     "owner": "psf",
                     "repo": "black",
-                    "stars": 41818
-                  }
+                    "stars": 41819
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6546,11 +6933,12 @@
                     "archived": false,
                     "id": 12550138,
                     "language": "Python",
-                    "last_commit": "2026-08-27T10:49:09Z",
+                    "last_commit": "2026-08-27T20:30:57Z",
                     "owner": "PyCQA",
                     "repo": "isort",
-                    "stars": 6947
-                  }
+                    "stars": 6948
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6565,7 +6953,8 @@
                     "owner": "hhatto",
                     "repo": "autopep8",
                     "stars": 4660
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -6587,7 +6976,8 @@
                     "owner": "google",
                     "repo": "pytype",
                     "stars": 5032
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6601,8 +6991,9 @@
                     "last_commit": "2026-02-11T02:19:15Z",
                     "owner": "Instagram",
                     "repo": "MonkeyType",
-                    "stars": 4997
-                  }
+                    "stars": 4996
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6617,7 +7008,8 @@
                     "owner": "dropbox",
                     "repo": "pyannotate",
                     "stars": 1442
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -6646,7 +7038,8 @@
                     "owner": "google",
                     "repo": "pyringe",
                     "stars": 1629
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6661,7 +7054,8 @@
                     "owner": "Kozea",
                     "repo": "wdb",
                     "stars": 1593
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6676,7 +7070,8 @@
                     "owner": "pdbpp",
                     "repo": "pdbpp",
                     "stars": 1464
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -6698,7 +7093,8 @@
                     "owner": "google",
                     "repo": "pyringe",
                     "stars": 1629
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6713,7 +7109,8 @@
                     "owner": "ionelmc",
                     "repo": "python-hunter",
                     "stars": 873
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6728,7 +7125,8 @@
                     "owner": "khamidou",
                     "repo": "lptrace",
                     "stars": 698
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6743,7 +7141,8 @@
                     "owner": "ionelmc",
                     "repo": "python-manhole",
                     "stars": 402
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -6764,8 +7163,9 @@
                     "last_commit": "2026-08-14T01:33:58Z",
                     "owner": "benfred",
                     "repo": "py-spy",
-                    "stars": 15446
-                  }
+                    "stars": 15450
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6780,7 +7180,8 @@
                     "owner": "nvdv",
                     "repo": "vprof",
                     "stars": 3977
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6795,7 +7196,8 @@
                     "owner": "uber-archive",
                     "repo": "pyflame",
                     "stars": 2981
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6810,7 +7212,8 @@
                     "owner": "what-studio",
                     "repo": "profiling",
                     "stars": 2934
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -6831,8 +7234,9 @@
                     "last_commit": "2026-08-21T05:42:05Z",
                     "owner": "gruns",
                     "repo": "icecream",
-                    "stars": 10109
-                  }
+                    "stars": 10110
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6846,8 +7250,9 @@
                     "last_commit": "2026-08-25T09:14:41Z",
                     "owner": "django-commons",
                     "repo": "django-debug-toolbar",
-                    "stars": 8379
-                  }
+                    "stars": 8378
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6861,8 +7266,9 @@
                     "last_commit": "2026-07-30T13:12:41Z",
                     "owner": "eliben",
                     "repo": "pyelftools",
-                    "stars": 2275
-                  }
+                    "stars": 2276
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6877,7 +7283,8 @@
                     "owner": "dcramer",
                     "repo": "django-devserver",
                     "stars": 1265
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6892,7 +7299,8 @@
                     "owner": "pallets-eco",
                     "repo": "flask-debugtoolbar",
                     "stars": 979
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -6907,7 +7315,8 @@
                     "owner": "wolph",
                     "repo": "python-statsd",
                     "stars": 110
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -6930,8 +7339,9 @@
                 "last_commit": "2024-02-13T08:02:51Z",
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20070
-              }
+                "stars": 20071
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -6942,11 +7352,12 @@
                 "archived": false,
                 "id": 640534,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:51:52Z",
+                "last_commit": "2026-08-27T22:33:33Z",
                 "owner": "sympy",
                 "repo": "sympy",
-                "stars": 14894
-              }
+                "stars": 14893
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -6957,11 +7368,12 @@
                 "archived": false,
                 "id": 1885237,
                 "language": "Python",
-                "last_commit": "2026-08-27T06:44:51Z",
+                "last_commit": "2026-08-27T18:27:55Z",
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11593
-              }
+                "stars": 11592
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -6975,8 +7387,9 @@
                 "last_commit": "2026-08-24T17:30:00Z",
                 "owner": "pymc-devs",
                 "repo": "pymc",
-                "stars": 9723
-              }
+                "stars": 9727
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -6987,11 +7400,12 @@
                 "archived": false,
                 "id": 172615836,
                 "language": "Python",
-                "last_commit": "2026-08-26T14:16:39Z",
+                "last_commit": "2026-08-28T00:09:29Z",
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4119
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7006,7 +7420,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7021,7 +7436,8 @@
                 "owner": "hi-primus",
                 "repo": "optimus",
                 "stars": 1536
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7032,11 +7448,12 @@
                 "archived": false,
                 "id": 5731348,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:57:13Z",
+                "last_commit": "2026-08-27T13:58:45Z",
                 "owner": "obspy",
                 "repo": "obspy",
-                "stars": 1330
-              }
+                "stars": 1331
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7051,7 +7468,8 @@
                 "owner": "mining",
                 "repo": "mining",
                 "stars": 1284
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7066,7 +7484,8 @@
                 "owner": "eBay",
                 "repo": "bayesian-belief-networks",
                 "stars": 1142
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7081,7 +7500,8 @@
                 "owner": "bcbio",
                 "repo": "bcbio-nextgen",
                 "stars": 1030
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7096,7 +7516,8 @@
                 "owner": "chapmanb",
                 "repo": "bcbb",
                 "stars": 645
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来进行科学计算和数据分析的库。",
@@ -7117,8 +7538,9 @@
                 "last_commit": "2026-08-19T17:00:42Z",
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35022
-              }
+                "stars": 35021
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7132,8 +7554,9 @@
                 "last_commit": "2026-08-16T12:09:29Z",
                 "owner": "mingrammer",
                 "repo": "diagrams",
-                "stars": 42556
-              }
+                "stars": 42557
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7144,11 +7567,12 @@
                 "archived": false,
                 "id": 3834332,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:04:21Z",
+                "last_commit": "2026-08-27T21:53:51Z",
                 "owner": "bokeh",
                 "repo": "bokeh",
                 "stars": 20436
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7162,8 +7586,9 @@
                 "last_commit": "2026-08-04T05:03:08Z",
                 "owner": "pyecharts",
                 "repo": "pyecharts",
-                "stars": 15775
-              }
+                "stars": 15777
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7177,8 +7602,9 @@
                 "last_commit": "2026-07-06T02:11:55Z",
                 "owner": "mwaskom",
                 "repo": "seaborn",
-                "stars": 14006
-              }
+                "stars": 14008
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7192,8 +7618,9 @@
                 "last_commit": "2026-08-16T17:34:41Z",
                 "owner": "vega",
                 "repo": "altair",
-                "stars": 10460
-              }
+                "stars": 10461
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7208,7 +7635,8 @@
                 "owner": "has2k1",
                 "repo": "plotnine",
                 "stars": 4757
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7223,7 +7651,8 @@
                 "owner": "bqplot",
                 "repo": "bqplot",
                 "stars": 3693
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7238,7 +7667,8 @@
                 "owner": "yhat",
                 "repo": "ggpy",
                 "stars": 3687
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7253,7 +7683,8 @@
                 "owner": "wrobstory",
                 "repo": "vincent",
                 "stars": 2020
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7264,11 +7695,12 @@
                 "archived": false,
                 "id": 5282596,
                 "language": "Python",
-                "last_commit": "2026-08-27T05:18:24Z",
+                "last_commit": "2026-08-27T15:52:40Z",
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1615
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "group",
@@ -7288,7 +7720,8 @@
                     "owner": "ucg8j",
                     "repo": "awesome-dash",
                     "stars": 2269
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -7311,8 +7744,9 @@
                 "last_commit": "2026-06-25T11:12:50Z",
                 "owner": "ageitgey",
                 "repo": "face_recognition",
-                "stars": 56685
-              }
+                "stars": 56687
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7326,8 +7760,9 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29943
-              }
+                "stars": 29942
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7338,11 +7773,12 @@
                 "archived": false,
                 "id": 145693916,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:54:28Z",
+                "last_commit": "2026-08-28T06:51:34Z",
                 "owner": "kornia",
                 "repo": "kornia",
-                "stars": 11329
-              }
+                "stars": 11333
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7356,8 +7792,9 @@
                 "last_commit": "2026-07-13T19:52:40Z",
                 "owner": "madmaze",
                 "repo": "pytesseract",
-                "stars": 6383
-              }
+                "stars": 6384
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7372,7 +7809,8 @@
                 "owner": "sirfz",
                 "repo": "tesserocr",
                 "stars": 2171
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7387,7 +7825,8 @@
                 "owner": "openpaperwork",
                 "repo": "pyocr",
                 "stars": 926
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "计算机视觉相关库。",
@@ -7409,7 +7848,8 @@
                 "owner": "BVLC",
                 "repo": "caffe",
                 "stars": 34556
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7424,7 +7864,8 @@
                 "owner": "Theano",
                 "repo": "Theano",
                 "stars": 9998
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7438,8 +7879,9 @@
                 "last_commit": "2022-11-07T01:59:31Z",
                 "owner": "SerpentAI",
                 "repo": "SerpentAI",
-                "stars": 6991
-              }
+                "stars": 6990
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7454,7 +7896,8 @@
                 "owner": "tensorflow",
                 "repo": "skflow",
                 "stars": 3168
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7468,8 +7911,9 @@
                 "last_commit": "2020-12-28T11:51:42Z",
                 "owner": "andersbll",
                 "repo": "deeppy",
-                "stars": 1370
-              }
+                "stars": 1371
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7484,7 +7928,8 @@
                 "owner": "hannes-brt",
                 "repo": "hebel",
                 "stars": 1169
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "神经网络和深度学习相关框架。 也可以参考 awesome-deep-learning。",
@@ -7502,11 +7947,12 @@
                 "archived": false,
                 "id": 21872392,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:09:24Z",
+                "last_commit": "2026-08-27T15:29:10Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74177
-              }
+                "stars": 74190
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7520,8 +7966,9 @@
                 "last_commit": "2026-08-21T23:50:38Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39649
-              }
+                "stars": 39654
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7535,8 +7982,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7547,11 +7995,12 @@
                 "archived": false,
                 "id": 16587283,
                 "language": "C++",
-                "last_commit": "2026-08-26T10:53:24Z",
+                "last_commit": "2026-08-27T12:48:25Z",
                 "owner": "dmlc",
                 "repo": "xgboost",
-                "stars": 28698
-              }
+                "stars": 28701
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7565,8 +8014,9 @@
                 "last_commit": "2026-08-05T13:05:22Z",
                 "owner": "clips",
                 "repo": "pattern",
-                "stars": 8861
-              }
+                "stars": 8859
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7581,7 +8031,8 @@
                 "owner": "h2oai",
                 "repo": "h2o-3",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7595,8 +8046,9 @@
                 "last_commit": "2024-12-03T17:50:20Z",
                 "owner": "numenta",
                 "repo": "nupic-legacy",
-                "stars": 6350
-              }
+                "stars": 6349
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7611,7 +8063,8 @@
                 "owner": "pybrain",
                 "repo": "pybrain",
                 "stars": 2856
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7626,7 +8079,8 @@
                 "owner": "lisa-lab",
                 "repo": "pylearn2",
                 "stars": 2767
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7641,7 +8095,8 @@
                 "owner": "benhamner",
                 "repo": "Metrics",
                 "stars": 1651
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7656,7 +8111,8 @@
                 "owner": "ocelma",
                 "repo": "python-recsys",
                 "stars": 1480
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7671,7 +8127,8 @@
                 "owner": "muricoca",
                 "repo": "crab",
                 "stars": 1175
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7686,7 +8143,8 @@
                 "owner": "josephreisinger",
                 "repo": "vowpal_porpoise",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": null,
@@ -7707,8 +8165,9 @@
                 "last_commit": "2025-10-29T14:08:37Z",
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14289
-              }
+                "stars": 14290
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7722,8 +8181,9 @@
                 "last_commit": "2026-05-30T17:11:41Z",
                 "owner": "NicolasHug",
                 "repo": "Surprise",
-                "stars": 6808
-              }
+                "stars": 6809
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7738,7 +8198,8 @@
                 "owner": "lyst",
                 "repo": "lightfm",
                 "stars": 5111
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7753,7 +8214,8 @@
                 "owner": "benfred",
                 "repo": "implicit",
                 "stars": 3815
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7768,7 +8230,8 @@
                 "owner": "maciejkula",
                 "repo": "spotlight",
                 "stars": 3043
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7783,7 +8246,8 @@
                 "owner": "ycjuan",
                 "repo": "libffm",
                 "stars": 1599
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7798,7 +8262,8 @@
                 "owner": "jfkirk",
                 "repo": "tensorrec",
                 "stars": 1299
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7813,7 +8278,8 @@
                 "owner": "ibayer",
                 "repo": "fastFM",
                 "stars": 1086
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用于构建推荐系统的相关库。",
@@ -7831,11 +8297,12 @@
                 "archived": false,
                 "id": 71932349,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:55:07Z",
+                "last_commit": "2026-08-28T05:06:35Z",
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 43617
-              }
+                "stars": 43634
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7849,8 +8316,9 @@
                 "last_commit": "2026-07-18T11:15:46Z",
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18765
-              }
+                "stars": 18768
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7864,8 +8332,9 @@
                 "last_commit": "2026-08-24T18:46:39Z",
                 "owner": "dask",
                 "repo": "dask",
-                "stars": 13897
-              }
+                "stars": 13898
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7880,7 +8349,8 @@
                 "owner": "robinhood",
                 "repo": "faust",
                 "stars": 6825
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7895,7 +8365,8 @@
                 "owner": "mars-project",
                 "repo": "mars",
                 "stars": 2742
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7910,7 +8381,8 @@
                 "owner": "douban",
                 "repo": "dpark",
                 "stars": 2663
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7925,7 +8397,8 @@
                 "owner": "Yelp",
                 "repo": "mrjob",
                 "stars": 2613
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7940,7 +8413,8 @@
                 "owner": "pystorm",
                 "repo": "streamparse",
                 "stars": 1505
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7955,7 +8429,8 @@
                 "owner": "klbostee",
                 "repo": "dumbo",
                 "stars": 1030
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "分布式计算相关的框架和库。",
@@ -7977,7 +8452,8 @@
                 "owner": "pytoolz",
                 "repo": "toolz",
                 "stars": 5152
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -7991,8 +8467,9 @@
                 "last_commit": "2026-08-25T05:42:43Z",
                 "owner": "dry-python",
                 "repo": "returns",
-                "stars": 4356
-              }
+                "stars": 4357
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8006,8 +8483,9 @@
                 "last_commit": "2026-02-16T05:03:23Z",
                 "owner": "evhub",
                 "repo": "coconut",
-                "stars": 4349
-              }
+                "stars": 4350
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8022,7 +8500,8 @@
                 "owner": "more-itertools",
                 "repo": "more-itertools",
                 "stars": 4089
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8037,7 +8516,8 @@
                 "owner": "Suor",
                 "repo": "funcy",
                 "stars": 3510
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8052,7 +8532,8 @@
                 "owner": "kachayev",
                 "repo": "fn.py",
                 "stars": 3368
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8066,8 +8547,9 @@
                 "last_commit": "2025-12-01T16:03:22Z",
                 "owner": "pytoolz",
                 "repo": "cytoolz",
-                "stars": 1112
-              }
+                "stars": 1113
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "使用 Python 进行函数式编程。",
@@ -8085,11 +8567,12 @@
                 "archived": false,
                 "id": 24774658,
                 "language": "Python",
-                "last_commit": "2026-08-27T01:05:27Z",
+                "last_commit": "2026-08-27T20:06:53Z",
                 "owner": "boto",
                 "repo": "boto3",
                 "stars": 9883
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8103,8 +8586,9 @@
                 "last_commit": "2026-08-26T17:30:08Z",
                 "owner": "googleapis",
                 "repo": "google-api-python-client",
-                "stars": 8915
-              }
+                "stars": 8916
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8119,7 +8603,8 @@
                 "owner": "burnash",
                 "repo": "gspread",
                 "stars": 7503
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8134,7 +8619,8 @@
                 "owner": "mobolic",
                 "repo": "facebook-sdk",
                 "stars": 2795
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8149,7 +8635,8 @@
                 "owner": "ryanmcgrath",
                 "repo": "twython",
                 "stars": 1860
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8163,8 +8650,9 @@
                 "last_commit": "2023-07-09T19:49:08Z",
                 "owner": "charlierguo",
                 "repo": "gmail",
-                "stars": 1803
-              }
+                "stars": 1804
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8179,7 +8667,8 @@
                 "owner": "jgorset",
                 "repo": "facepy",
                 "stars": 851
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8194,7 +8683,8 @@
                 "owner": "jcarbaugh",
                 "repo": "django-wordpress",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来访问第三方 API 的库。 参见： List of Python API Wrappers and Libraries。",
@@ -8212,11 +8702,12 @@
                 "archived": false,
                 "id": 3638964,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:11:29Z",
+                "last_commit": "2026-08-27T14:26:26Z",
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70479
-              }
+                "stars": 70485
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8227,11 +8718,12 @@
                 "archived": false,
                 "id": 1390248,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:18:23Z",
+                "last_commit": "2026-08-28T01:23:38Z",
                 "owner": "saltstack",
                 "repo": "salt",
-                "stars": 15637
-              }
+                "stars": 15636
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8242,11 +8734,12 @@
                 "archived": false,
                 "id": 20101515,
                 "language": "Python",
-                "last_commit": "2026-08-27T07:41:36Z",
+                "last_commit": "2026-08-27T12:19:13Z",
                 "owner": "giampaolo",
                 "repo": "psutil",
-                "stars": 11265
-              }
+                "stars": 11268
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8261,7 +8754,8 @@
                 "owner": "Supervisor",
                 "repo": "supervisor",
                 "stars": 9108
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8275,8 +8769,9 @@
                 "last_commit": "2026-08-27T08:34:25Z",
                 "owner": "pyinfra-dev",
                 "repo": "pyinfra",
-                "stars": 5966
-              }
+                "stars": 5969
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8291,7 +8786,8 @@
                 "owner": "pexpect",
                 "repo": "pexpect",
                 "stars": 2851
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8306,7 +8802,8 @@
                 "owner": "nickstenning",
                 "repo": "honcho",
                 "stars": 1711
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8321,7 +8818,8 @@
                 "owner": "nickstenning",
                 "repo": "honcho",
                 "stars": 1711
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8336,7 +8834,8 @@
                 "owner": "sebastien",
                 "repo": "cuisine",
                 "stars": 1265
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8351,7 +8850,8 @@
                 "owner": "fabtools",
                 "repo": "fabtools",
                 "stars": 1251
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用于 DevOps 的软件和库。",
@@ -8369,11 +8869,12 @@
                 "archived": false,
                 "id": 139199684,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:39:07Z",
+                "last_commit": "2026-08-27T21:33:49Z",
                 "owner": "PrefectHQ",
                 "repo": "prefect",
-                "stars": 23696
-              }
+                "stars": 23702
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8387,8 +8888,9 @@
                 "last_commit": "2024-05-25T18:41:01Z",
                 "owner": "dbader",
                 "repo": "schedule",
-                "stars": 12260
-              }
+                "stars": 12262
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8403,7 +8905,8 @@
                 "owner": "sartography",
                 "repo": "SpiffWorkflow",
                 "stars": 1913
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8418,7 +8921,8 @@
                 "owner": "fengsp",
                 "repo": "plan",
                 "stars": 1184
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8433,7 +8937,8 @@
                 "owner": "thauber",
                 "repo": "django-schedule",
                 "stars": 847
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8448,7 +8953,8 @@
                 "owner": "gunnery",
                 "repo": "gunnery",
                 "stars": 770
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "任务调度库。",
@@ -8470,7 +8976,8 @@
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2234
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "Python 重构相关库和工具。",
@@ -8491,8 +8998,9 @@
                 "last_commit": "2026-08-27T05:42:12Z",
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22012
-              }
+                "stars": 22016
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8507,7 +9015,8 @@
                 "owner": "google",
                 "repo": "grumpy",
                 "stars": 10492
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8522,7 +9031,8 @@
                 "owner": "pyston",
                 "repo": "pyston_v1",
                 "stars": 4844
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8537,7 +9047,8 @@
                 "owner": "IronLanguages",
                 "repo": "ironpython3",
                 "stars": 2759
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8552,7 +9063,8 @@
                 "owner": "Maratyszcza",
                 "repo": "PeachPy",
                 "stars": 2058
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8567,7 +9079,8 @@
                 "owner": "microsoft",
                 "repo": "Pyjion",
                 "stars": 1592
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8582,7 +9095,8 @@
                 "owner": "metawilm",
                 "repo": "cl-python",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "让 Python 更快的库。",
@@ -8604,7 +9118,8 @@
                 "owner": "pythonnet",
                 "repo": "pythonnet",
                 "stars": 5512
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "在 Windows 平台上进行 Python 编程。",
@@ -8626,7 +9141,8 @@
                 "owner": "napalm-automation",
                 "repo": "napalm",
                 "stars": 2492
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8641,7 +9157,8 @@
                 "owner": "noxrepo",
                 "repo": "pox",
                 "stars": 648
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8656,7 +9173,8 @@
                 "owner": "sdn-ixp",
                 "repo": "internet2award",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来进行网络可视化和 SDN(软件定义网络)的工具和库。",
@@ -8674,11 +9192,12 @@
                 "archived": false,
                 "id": 43509302,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:38:24Z",
+                "last_commit": "2026-08-28T04:33:57Z",
                 "owner": "secdev",
                 "repo": "scapy",
                 "stars": 12501
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8693,7 +9212,8 @@
                 "owner": "boppreh",
                 "repo": "keyboard",
                 "stars": 3963
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8708,7 +9228,8 @@
                 "owner": "SavinaRoja",
                 "repo": "PyUserInput",
                 "stars": 1064
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8723,7 +9244,8 @@
                 "owner": "boppreh",
                 "repo": "mouse",
                 "stars": 960
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "用来对硬件进行编程的库。",
@@ -8745,7 +9267,8 @@
                 "owner": "PyCQA",
                 "repo": "modernize",
                 "stars": 371
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "帮助从 Python 2 向 Python 3 迁移的库。",
@@ -8768,11 +9291,12 @@
                     "archived": false,
                     "id": 63476337,
                     "language": "Python",
-                    "last_commit": "2026-08-27T11:13:49Z",
+                    "last_commit": "2026-08-28T06:10:48Z",
                     "owner": "TheAlgorithms",
                     "repo": "Python",
-                    "stars": 224053
-                  }
+                    "stars": 224068
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -8783,11 +9307,12 @@
                     "archived": false,
                     "id": 74073233,
                     "language": "Python",
-                    "last_commit": "2026-08-01T08:02:17Z",
+                    "last_commit": "2026-08-27T17:12:38Z",
                     "owner": "keon",
                     "repo": "algorithms",
-                    "stars": 25541
-                  }
+                    "stars": 25542
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -8801,8 +9326,9 @@
                     "last_commit": "2024-03-08T17:47:09Z",
                     "owner": "grantjenks",
                     "repo": "python-sortedcontainers",
-                    "stars": 3975
-                  }
+                    "stars": 3976
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -8817,7 +9343,8 @@
                     "owner": "prabhupant",
                     "repo": "python-ds",
                     "stars": 3089
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -8838,8 +9365,9 @@
                     "last_commit": "2026-08-20T09:10:58Z",
                     "owner": "faif",
                     "repo": "python-patterns",
-                    "stars": 42948
-                  }
+                    "stars": 42946
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -8853,8 +9381,9 @@
                     "last_commit": "2025-09-11T04:34:54Z",
                     "owner": "pytransitions",
                     "repo": "transitions",
-                    "stars": 6582
-                  }
+                    "stars": 6581
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -8869,7 +9398,8 @@
                     "owner": "tylerlaberge",
                     "repo": "PyPattyrn",
                     "stars": 2347
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -8893,7 +9423,8 @@
                 "owner": "python-attrs",
                 "repo": "attrs",
                 "stars": 5833
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8908,7 +9439,8 @@
                 "owner": "cdgriffith",
                 "repo": "Box",
                 "stars": 2830
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8923,7 +9455,8 @@
                 "owner": "jab",
                 "repo": "bidict",
                 "stars": 1586
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -8938,7 +9471,8 @@
                 "owner": "carlosescri",
                 "repo": "DottedDict",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "一些 Python 内置类的增强版实现库。",
@@ -8959,8 +9493,9 @@
                 "last_commit": "2026-08-24T20:02:57Z",
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30393
-              }
+                "stars": 30400
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "机器人相关库。",
@@ -8981,8 +9516,9 @@
                 "last_commit": "2026-08-17T03:15:23Z",
                 "owner": "errbotio",
                 "repo": "errbot",
-                "stars": 3300
-              }
+                "stars": 3302
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "聊天机器人开发相关的库。",
@@ -9009,7 +9545,8 @@
                     "owner": "jorgenschaefer",
                     "repo": "elpy",
                     "stars": 1937
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -9031,7 +9568,8 @@
                     "owner": "DamnWidget",
                     "repo": "anaconda",
                     "stars": 2241
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -9046,7 +9584,8 @@
                     "owner": "srusskih",
                     "repo": "SublimeJEDI",
                     "stars": 928
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -9068,7 +9607,8 @@
                     "owner": "ycm-core",
                     "repo": "YouCompleteMe",
                     "stars": 25896
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -9082,8 +9622,9 @@
                     "last_commit": "2026-05-24T01:39:48Z",
                     "owner": "python-mode",
                     "repo": "python-mode",
-                    "stars": 5465
-                  }
+                    "stars": 5464
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 },
                 {
                   "node_type": "item",
@@ -9098,7 +9639,8 @@
                     "owner": "davidhalter",
                     "repo": "jedi-vim",
                     "stars": 5307
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -9120,7 +9662,8 @@
                     "owner": "microsoft",
                     "repo": "PTVS",
                     "stars": 2564
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             },
@@ -9138,11 +9681,12 @@
                     "archived": false,
                     "id": 30892477,
                     "language": "Python",
-                    "last_commit": "2026-08-27T04:16:48Z",
+                    "last_commit": "2026-08-28T00:42:05Z",
                     "owner": "spyder-ide",
                     "repo": "spyder",
                     "stars": 9297
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:55:01.120Z"
                 }
               ]
             }
@@ -9166,7 +9710,8 @@
                 "owner": "graphql-python",
                 "repo": "graphene",
                 "stars": 8238
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -9181,7 +9726,8 @@
                 "owner": "tartiflette",
                 "repo": "tartiflette-asgi",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -9196,7 +9742,8 @@
                 "owner": "tartiflette",
                 "repo": "tartiflette-aiohttp",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "GraphQL 相关库。",
@@ -9217,8 +9764,9 @@
                 "last_commit": "2026-08-10T01:07:58Z",
                 "owner": "vnpy",
                 "repo": "vnpy",
-                "stars": 44798
-              }
+                "stars": 44815
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -9232,8 +9780,9 @@
                 "last_commit": "2026-01-24T09:00:29Z",
                 "owner": "bbfamily",
                 "repo": "abu",
-                "stars": 18244
-              }
+                "stars": 18249
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -9247,8 +9796,9 @@
                 "last_commit": "2026-02-28T02:59:12Z",
                 "owner": "yutiansut",
                 "repo": "QUANTAXIS",
-                "stars": 11049
-              }
+                "stars": 11051
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -9262,8 +9812,9 @@
                 "last_commit": "2026-08-26T08:34:01Z",
                 "owner": "fasiondog",
                 "repo": "hikyuu",
-                "stars": 3469
-              }
+                "stars": 3472
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": null,
@@ -9284,8 +9835,9 @@
                 "last_commit": "2026-01-06T01:17:54Z",
                 "owner": "magenta",
                 "repo": "magenta",
-                "stars": 19808
-              }
+                "stars": 19807
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -9299,8 +9851,9 @@
                 "last_commit": "2026-08-19T09:01:44Z",
                 "owner": "mahmoud",
                 "repo": "boltons",
-                "stars": 6917
-              }
+                "stars": 6918
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -9314,8 +9867,9 @@
                 "last_commit": "2025-06-14T20:35:46Z",
                 "owner": "pallets",
                 "repo": "itsdangerous",
-                "stars": 3128
-              }
+                "stars": 3129
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -9330,7 +9884,8 @@
                 "owner": "pallets-eco",
                 "repo": "blinker",
                 "stars": 2087
-              }
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             },
             {
               "node_type": "item",
@@ -9344,8 +9899,9 @@
                 "last_commit": "2021-05-16T16:23:31Z",
                 "owner": "mitsuhiko",
                 "repo": "pluginbase",
-                "stars": 1139
-              }
+                "stars": 1140
+              },
+              "first_seen": "2026-08-28T06:55:01.120Z"
             }
           ],
           "description": "不属于上面任何一个类别，但是非常有用的库。",
@@ -9357,7 +9913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:28.316Z",
+    "last_updated": "2026-08-28T06:55:01.120Z",
     "original_repository_info": {
       "archived": false,
       "id": 45456804,
@@ -9365,7 +9921,7 @@
       "last_commit": "2022-08-29T11:28:59Z",
       "owner": "jobbole",
       "repo": "awesome-python-cn",
-      "stars": 30580
+      "stars": 30581
     },
     "original_repository_sha": "e718fecd821fb94d696713da1259a86f18b400af",
     "enhanced_repository": "enhansome/enhansome-python-cn",
