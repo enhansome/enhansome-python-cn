@@ -3592,7 +3592,7 @@
                 "open_issues": 235,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 88416,
+                "stars": 88417,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -12043,7 +12043,7 @@
                 "open_issues": 530,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29946,
+                "stars": 29947,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -15423,7 +15423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:07:46.241Z",
+    "last_updated": "2026-08-29T04:10:20.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",

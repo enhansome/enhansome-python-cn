@@ -249,7 +249,7 @@
   * [howdoi](https://github.com/gleitz/howdoi) ⭐ 10,840 | 🐛 28 | 🌐 Python | 📅 2026-04-15：通过命令行获取即时的编程问题解答。
   * [PathPicker](https://github.com/facebook/PathPicker) ⭐ 5,224 | 🐛 26 | 🌐 Python | 📅 2024-09-05：从 bash 输出中选出文件。
   * [Invoke](https://github.com/pyinvoke/invoke#readme) ⭐ 4,769 | 🐛 460 | 🌐 Python | 📅 2026-04-07：用于管理面向 shell 的子进程，同时支持将可执行的 Python 代码组织成命令行可调用的状态。
-  * [tmuxp](https://github.com/tony/tmuxp) ⭐ 4,570 | 🐛 139 | 🌐 Python | 📅 2026-08-22： [tmux](https://github.com/tmux/tmux) ⭐ 48,888 | 🐛 33 | 🌐 C | 📅 2026-08-28 会话管理器。
+  * [tmuxp](https://github.com/tony/tmuxp) ⭐ 4,570 | 🐛 139 | 🌐 Python | 📅 2026-08-22： [tmux](https://github.com/tmux/tmux) ⭐ 48,889 | 🐛 33 | 🌐 C | 📅 2026-08-28 会话管理器。
   * [doitlive](https://github.com/sloria/doitlive) ⭐ 3,580 | 🐛 14 | 🌐 Python | 📅 2026-08-11：一个用来在终端中进行现场演示的工具。
   * [copier](https://github.com/pykong/copier) ⭐ 3,549 | 🐛 148 | 🌐 Python | 📅 2026-08-25：用于呈现项目模板的库和命令行实用程序。
   * [percol](https://github.com/mooz/percol) ⭐ 3,326 | 🐛 51 | 🌐 Python | 📅 2023-12-30：向 UNIX shell 传统管道概念中加入交互式选择功能。
@@ -302,7 +302,7 @@
 
 光学字符识别库。
 
-* [paddleocr](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 88,416 | 🐛 235 | 🌐 Python | 📅 2026-07-22: 除光学字符识别外还引入了表格识别。
+* [paddleocr](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 88,417 | 🐛 235 | 🌐 Python | 📅 2026-07-22: 除光学字符识别外还引入了表格识别。
 * [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,384 | 🐛 21 | 🌐 Python | 📅 2026-07-13：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的一个封装。
 * [pyocr](https://gitlab.gnome.org/World/OpenPaperwork/pyocr)：Tesseract 和 Cuneiform 的一个封装。
 
@@ -1110,7 +1110,7 @@ Web socket 相关库。
 计算机视觉相关库。
 
 * [Face Recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,689 | 🐛 832 | 🌐 Python | 📅 2026-06-25：简单的面部识别库。
-* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 29,946 | 🐛 530 | 🌐 Python | 📅 2025-12-05：支持40多种语言的即用型 OCR。
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 29,947 | 🐛 530 | 🌐 Python | 📅 2025-12-05：支持40多种语言的即用型 OCR。
 * [Kornia](https://github.com/kornia/kornia/) ⭐ 11,334 | 🐛 118 | 🌐 Python | 📅 2026-08-28：PyTorch 的开源差异化计算机视觉库。
 * [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,384 | 🐛 21 | 🌐 Python | 📅 2026-07-13：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一包装库。
 * [tesserocr](https://github.com/sirfz/tesserocr) ⭐ 2,171 | 🐛 46 | 🌐 Python | 📅 2026-08-04：另一个简单的，兼容 Pillow 的 `tesseract-ocr` API 装饰器，可用于 OCR。
