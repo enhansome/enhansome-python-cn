@@ -21,7 +21,7 @@
                 "open_issues": 55,
                 "owner": "pyenv",
                 "repo": "pyenv",
-                "stars": 45058,
+                "stars": 45056,
                 "topics": [
                   "python",
                   "shell"
@@ -45,7 +45,7 @@
                 "open_issues": 25,
                 "owner": "qw3rtman",
                 "repo": "p",
-                "stars": 771,
+                "stars": 770,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -94,7 +94,7 @@
                 "open_issues": 13,
                 "owner": "pypa",
                 "repo": "pipenv",
-                "stars": 25035,
+                "stars": 25032,
                 "topics": [
                   "packaging",
                   "pip",
@@ -121,7 +121,7 @@
                 "open_issues": 173,
                 "owner": "jazzband",
                 "repo": "pip-tools",
-                "stars": 8007,
+                "stars": 8006,
                 "topics": [
                   "hashes",
                   "lockfile",
@@ -149,10 +149,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-29T10:14:07Z",
-                "open_issues": 660,
+                "open_issues": 662,
                 "owner": "conda",
                 "repo": "conda",
-                "stars": 7499,
+                "stars": 7498,
                 "topics": [
                   "conda",
                   "package-management",
@@ -181,10 +181,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T02:01:00Z",
-                "open_issues": 589,
+                "open_issues": 591,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4140,
+                "stars": 4141,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -239,11 +239,11 @@
                 "id": 2835111,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-23T15:03:06Z",
+                "last_commit": "2026-08-30T20:36:05Z",
                 "open_issues": 291,
                 "owner": "pyinstaller",
                 "repo": "pyinstaller",
-                "stars": 13086,
+                "stars": 13085,
                 "topics": [
                   "bundle",
                   "package",
@@ -269,8 +269,8 @@
                 "id": 101461719,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T05:01:23Z",
-                "open_issues": 12,
+                "last_commit": "2026-08-30T02:04:26Z",
+                "open_issues": 11,
                 "owner": "dashingsoft",
                 "repo": "pyarmor",
                 "stars": 5185,
@@ -300,7 +300,7 @@
                 "open_issues": 63,
                 "owner": "linkedin",
                 "repo": "shiv",
-                "stars": 1946,
+                "stars": 1945,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -325,7 +325,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:19:06Z",
-                "open_issues": 311,
+                "open_issues": 313,
                 "owner": "platformio",
                 "repo": "platformio-core",
                 "stars": 9430,
@@ -404,10 +404,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T09:00:30Z",
-                "open_issues": 1279,
+                "open_issues": 1278,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16773,
+                "stars": 16775,
                 "topics": [
                   "closember",
                   "data-science",
@@ -481,7 +481,7 @@
                     "id": 101582879,
                     "language": null,
                     "license": "CC-BY-SA-4.0",
-                    "last_commit": "2026-08-28T23:57:55Z",
+                    "last_commit": "2026-08-30T23:57:58Z",
                     "open_issues": 18,
                     "owner": "markusschanta",
                     "repo": "awesome-jupyter",
@@ -525,11 +525,11 @@
                 "id": 1017451,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T00:47:10Z",
-                "open_issues": 243,
+                "last_commit": "2026-08-30T01:30:02Z",
+                "open_issues": 242,
                 "owner": "gorakhargosh",
                 "repo": "watchdog",
-                "stars": 7402,
+                "stars": 7403,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -573,7 +573,7 @@
                 "open_issues": 27,
                 "owner": "ahupp",
                 "repo": "python-magic",
-                "stars": 2917,
+                "stars": 2916,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -594,7 +594,7 @@
                 "open_issues": 117,
                 "owner": "PyFilesystem",
                 "repo": "pyfilesystem2",
-                "stars": 2106,
+                "stars": 2105,
                 "topics": [
                   "filesystem",
                   "filesystem-library",
@@ -673,7 +673,7 @@
                 "open_issues": 190,
                 "owner": "arrow-py",
                 "repo": "arrow",
-                "stars": 9048,
+                "stars": 9049,
                 "topics": [
                   "arrow",
                   "date",
@@ -700,10 +700,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T13:03:52Z",
-                "open_issues": 266,
+                "open_issues": 267,
                 "owner": "python-pendulum",
                 "repo": "pendulum",
-                "stars": 6673,
+                "stars": 6671,
                 "topics": [
                   "date",
                   "datetime",
@@ -731,7 +731,7 @@
                 "open_issues": 21,
                 "owner": "kennethreitz",
                 "repo": "maya",
-                "stars": 3410,
+                "stars": 3409,
                 "topics": [
                   "date",
                   "dates",
@@ -759,7 +759,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-19T23:50:16Z",
-                "open_issues": 475,
+                "open_issues": 476,
                 "owner": "dateutil",
                 "repo": "dateutil",
                 "stars": 2631,
@@ -923,7 +923,7 @@
                     "open_issues": 70,
                     "owner": "vi3k6i5",
                     "repo": "flashtext",
-                    "stars": 5712,
+                    "stars": 5710,
                     "topics": [
                       "data-extraction",
                       "keyword-extraction",
@@ -950,7 +950,7 @@
                     "open_issues": 45,
                     "owner": "mozillazg",
                     "repo": "python-pinyin",
-                    "stars": 5357,
+                    "stars": 5358,
                     "topics": [
                       "chinese",
                       "hanzi",
@@ -1001,7 +1001,7 @@
                     "open_issues": 47,
                     "owner": "seatgeek",
                     "repo": "thefuzz",
-                    "stars": 3647,
+                    "stars": 3646,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -1053,11 +1053,11 @@
                     "id": 5196969,
                     "language": "Python",
                     "license": "0BSD",
-                    "last_commit": "2026-08-23T23:21:51Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-08-30T15:35:35Z",
+                    "open_issues": 0,
                     "owner": "chardet",
                     "repo": "chardet",
-                    "stars": 2663,
+                    "stars": 2664,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -1127,7 +1127,7 @@
                     "open_issues": 2,
                     "owner": "pwaller",
                     "repo": "pyfiglet",
-                    "stars": 1582,
+                    "stars": 1583,
                     "topics": [
                       "ascii-art",
                       "figlet",
@@ -1253,7 +1253,7 @@
                     "open_issues": 17,
                     "owner": "un33k",
                     "repo": "python-slugify",
-                    "stars": 1623,
+                    "stars": 1624,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -1323,7 +1323,7 @@
                     "open_issues": 12,
                     "owner": "daviddrysdale",
                     "repo": "python-phonenumbers",
-                    "stars": 3769,
+                    "stars": 3768,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -1344,7 +1344,7 @@
                     "open_issues": 12,
                     "owner": "daviddrysdale",
                     "repo": "python-phonenumbers",
-                    "stars": 3769,
+                    "stars": 3768,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -1386,8 +1386,8 @@
                     "id": 18353524,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-30T00:40:36Z",
-                    "open_issues": 31,
+                    "last_commit": "2026-08-31T00:44:31Z",
+                    "open_issues": 35,
                     "owner": "derek73",
                     "repo": "python-nameparser",
                     "stars": 715,
@@ -1465,7 +1465,7 @@
                     "open_issues": 515,
                     "owner": "python-openxml",
                     "repo": "python-docx",
-                    "stars": 5700,
+                    "stars": 5699,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -1528,7 +1528,7 @@
                     "open_issues": 175,
                     "owner": "elapouya",
                     "repo": "python-docx-template",
-                    "stars": 2697,
+                    "stars": 2698,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -1624,11 +1624,11 @@
                     "id": 3119517,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-28T10:10:27Z",
-                    "open_issues": 133,
+                    "last_commit": "2026-08-30T14:01:36Z",
+                    "open_issues": 130,
                     "owner": "py-pdf",
                     "repo": "pypdf",
-                    "stars": 10177,
+                    "stars": 10178,
                     "topics": [
                       "help-wanted",
                       "pdf",
@@ -1682,8 +1682,8 @@
                     "id": 692146,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-24T18:11:36Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-08-30T19:20:23Z",
+                    "open_issues": 27,
                     "owner": "Python-Markdown",
                     "repo": "markdown",
                     "stars": 4244,
@@ -1765,7 +1765,7 @@
                     "open_issues": 40,
                     "owner": "wireservice",
                     "repo": "csvkit",
-                    "stars": 6410,
+                    "stars": 6411,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -1823,7 +1823,7 @@
                 "open_issues": 52,
                 "owner": "fighting41love",
                 "repo": "funNLP",
-                "stars": 82755,
+                "stars": 82776,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -1865,7 +1865,7 @@
                 "open_issues": 439,
                 "owner": "piskvorky",
                 "repo": "gensim",
-                "stars": 16479,
+                "stars": 16480,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -1902,7 +1902,7 @@
                 "open_issues": 93,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7869,
+                "stars": 7870,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -2125,11 +2125,11 @@
                 "id": 841835,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-30T00:14:29Z",
+                "last_commit": "2026-08-30T15:36:16Z",
                 "open_issues": 392,
                 "owner": "readthedocs",
                 "repo": "readthedocs.org",
-                "stars": 8379,
+                "stars": 8378,
                 "topics": [
                   "docs",
                   "mkdocs",
@@ -2250,11 +2250,11 @@
                 "id": 191632914,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T22:07:46Z",
-                "open_issues": 109,
+                "last_commit": "2026-08-30T17:11:09Z",
+                "open_issues": 108,
                 "owner": "hydra-ecosystem",
                 "repo": "hydra",
-                "stars": 10622,
+                "stars": 10625,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -2275,7 +2275,7 @@
                 "open_issues": 22,
                 "owner": "HBNetwork",
                 "repo": "python-decouple",
-                "stars": 3037,
+                "stars": 3038,
                 "topics": [
                   "configuration-files",
                   "environment-variables",
@@ -2309,10 +2309,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-01T08:19:02Z",
-                    "open_issues": 194,
+                    "open_issues": 195,
                     "owner": "google",
                     "repo": "python-fire",
-                    "stars": 28210,
+                    "stars": 28209,
                     "topics": [
                       "cli",
                       "python"
@@ -2336,7 +2336,7 @@
                     "open_issues": 183,
                     "owner": "chriskiehl",
                     "repo": "Gooey",
-                    "stars": 21906,
+                    "stars": 21905,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -2357,7 +2357,7 @@
                     "open_issues": 708,
                     "owner": "prompt-toolkit",
                     "repo": "python-prompt-toolkit",
-                    "stars": 10564,
+                    "stars": 10565,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -2403,10 +2403,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-06-23T03:10:19Z",
-                    "open_issues": 372,
+                    "open_issues": 373,
                     "owner": "Textualize",
                     "repo": "rich",
-                    "stars": 57274,
+                    "stars": 57281,
                     "topics": [
                       "ansi-colors",
                       "emoji",
@@ -2444,7 +2444,7 @@
                     "open_issues": 604,
                     "owner": "tqdm",
                     "repo": "tqdm",
-                    "stars": 31303,
+                    "stars": 31305,
                     "topics": [
                       "cli",
                       "closember",
@@ -2483,7 +2483,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-05-24T19:29:20Z",
-                    "open_issues": 17,
+                    "open_issues": 18,
                     "owner": "rsalmei",
                     "repo": "alive-progress",
                     "stars": 6296,
@@ -2528,7 +2528,7 @@
                     "open_issues": 17,
                     "owner": "peterbrittain",
                     "repo": "asciimatics",
-                    "stars": 4302,
+                    "stars": 4301,
                     "topics": [
                       "ascii-art",
                       "console",
@@ -2585,7 +2585,7 @@
                     "open_issues": 456,
                     "owner": "nvbn",
                     "repo": "thefuck",
-                    "stars": 97749,
+                    "stars": 97754,
                     "topics": [
                       "python",
                       "shell"
@@ -2609,7 +2609,7 @@
                     "open_issues": 312,
                     "owner": "cookiecutter",
                     "repo": "cookiecutter",
-                    "stars": 25067,
+                    "stars": 25070,
                     "topics": [
                       "cookiecutter",
                       "python"
@@ -2629,11 +2629,11 @@
                     "id": 6780767,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-28T19:22:20Z",
+                    "last_commit": "2026-08-30T06:22:28Z",
                     "open_issues": 724,
                     "owner": "aws",
                     "repo": "aws-cli",
-                    "stars": 17229,
+                    "stars": 17230,
                     "topics": [
                       "aws",
                       "aws-cli",
@@ -2659,7 +2659,7 @@
                     "open_issues": 28,
                     "owner": "gleitz",
                     "repo": "howdoi",
-                    "stars": 10841,
+                    "stars": 10842,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -2698,7 +2698,7 @@
                     "language": "Python",
                     "license": "BSD-2-Clause",
                     "last_commit": "2026-04-07T15:39:24Z",
-                    "open_issues": 460,
+                    "open_issues": 461,
                     "owner": "pyinvoke",
                     "repo": "invoke",
                     "stars": 4770,
@@ -2784,7 +2784,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-25T20:15:46Z",
-                    "open_issues": 147,
+                    "open_issues": 148,
                     "owner": "copier-org",
                     "repo": "copier",
                     "stars": 3550,
@@ -2923,7 +2923,7 @@
                     "open_issues": 336,
                     "owner": "httpie",
                     "repo": "cli",
-                    "stars": 38467,
+                    "stars": 38472,
                     "topics": [
                       "api",
                       "api-client",
@@ -2961,11 +2961,11 @@
                     "id": 25126616,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-29T06:53:32Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-08-30T13:52:36Z",
+                    "open_issues": 40,
                     "owner": "dbcli",
                     "repo": "pgcli",
-                    "stars": 13370,
+                    "stars": 13369,
                     "topics": [
                       "database",
                       "postgres",
@@ -2992,7 +2992,7 @@
                     "open_issues": 1,
                     "owner": "dbcli",
                     "repo": "mycli",
-                    "stars": 11970,
+                    "stars": 11971,
                     "topics": [
                       "auto-completion",
                       "data-science",
@@ -3061,7 +3061,7 @@
                     "open_issues": 46,
                     "owner": "dbcli",
                     "repo": "litecli",
-                    "stars": 3293,
+                    "stars": 3295,
                     "topics": [
                       "linux",
                       "prompt-toolkit",
@@ -3195,10 +3195,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-28T06:07:36Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "akfamily",
                 "repo": "akshare",
-                "stars": 22301,
+                "stars": 22322,
                 "topics": [
                   "academic",
                   "akshare",
@@ -3239,7 +3239,7 @@
                 "open_issues": 311,
                 "owner": "s3tools",
                 "repo": "s3cmd",
-                "stars": 4906,
+                "stars": 4905,
                 "topics": [
                   "backup",
                   "cli",
@@ -3301,7 +3301,7 @@
                 "open_issues": 832,
                 "owner": "ageitgey",
                 "repo": "face_recognition",
-                "stars": 56690,
+                "stars": 56696,
                 "topics": [
                   "face-detection",
                   "face-recognition",
@@ -3323,8 +3323,8 @@
                 "id": 1488139,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-27T13:16:25Z",
-                "open_issues": 28,
+                "last_commit": "2026-08-30T15:26:09Z",
+                "open_issues": 30,
                 "owner": "thumbor",
                 "repo": "thumbor",
                 "stars": 10515,
@@ -3350,7 +3350,7 @@
                 "open_issues": 168,
                 "owner": "dylanaraps",
                 "repo": "pywal",
-                "stars": 9074,
+                "stars": 9075,
                 "topics": [
                   "changing-colorschemes",
                   "colorscheme",
@@ -3376,7 +3376,7 @@
                 "open_issues": 55,
                 "owner": "lincolnloop",
                 "repo": "python-qrcode",
-                "stars": 4939,
+                "stars": 4937,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -3487,7 +3487,7 @@
                 "id": 98668614,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T13:31:37Z",
+                "last_commit": "2026-08-30T09:21:10Z",
                 "open_issues": 2,
                 "owner": "libvips",
                 "repo": "pyvips",
@@ -3589,10 +3589,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-22T11:59:34Z",
-                "open_issues": 234,
+                "open_issues": 233,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 88457,
+                "stars": 88498,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -3651,11 +3651,11 @@
                 "id": 827590,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T20:15:46Z",
-                "open_issues": 716,
+                "last_commit": "2026-08-30T11:26:41Z",
+                "open_issues": 718,
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 15598,
+                "stars": 15600,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -3704,7 +3704,7 @@
                 "open_issues": 51,
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8581,
+                "stars": 8580,
                 "topics": [
                   "audio",
                   "dsp",
@@ -3782,7 +3782,7 @@
                 "open_issues": 34,
                 "owner": "sergree",
                 "repo": "matchering",
-                "stars": 2616,
+                "stars": 2615,
                 "topics": [
                   "audio",
                   "docker-image",
@@ -3875,8 +3875,8 @@
                 "id": 16282952,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-23T19:13:19Z",
-                "open_issues": 6,
+                "last_commit": "2026-08-30T23:32:25Z",
+                "open_issues": 8,
                 "owner": "tinytag",
                 "repo": "tinytag",
                 "stars": 834,
@@ -4106,7 +4106,7 @@
                 "open_issues": 53,
                 "owner": "geopy",
                 "repo": "geopy",
-                "stars": 4856,
+                "stars": 4857,
                 "topics": [
                   "geocoder",
                   "geocoding",
@@ -4156,7 +4156,7 @@
                 "open_issues": 5,
                 "owner": "maxmind",
                 "repo": "GeoIP2-python",
-                "stars": 1217,
+                "stars": 1218,
                 "topics": [
                   "geoip",
                   "geoip2",
@@ -4255,11 +4255,11 @@
                 "id": 13258039,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T16:23:42Z",
-                "open_issues": 229,
+                "last_commit": "2026-08-31T01:14:29Z",
+                "open_issues": 227,
                 "owner": "aio-libs",
                 "repo": "aiohttp",
-                "stars": 16535,
+                "stars": 16534,
                 "topics": [
                   "aiohttp",
                   "async",
@@ -4289,7 +4289,7 @@
                 "open_issues": 143,
                 "owner": "encode",
                 "repo": "httpx",
-                "stars": 15453,
+                "stars": 15457,
                 "topics": [
                   "asyncio",
                   "http",
@@ -4333,7 +4333,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-26T15:22:19Z",
-                "open_issues": 225,
+                "open_issues": 226,
                 "owner": "urllib3",
                 "repo": "urllib3",
                 "stars": 4054,
@@ -4451,7 +4451,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-18T09:00:54Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "PyMySQL",
                     "repo": "PyMySQL",
                     "stars": 7844,
@@ -4566,7 +4566,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-28T17:17:08Z",
-                    "open_issues": 85,
+                    "open_issues": 84,
                     "owner": "redis",
                     "repo": "redis-py",
                     "stars": 13623,
@@ -4596,7 +4596,7 @@
                     "open_issues": 20,
                     "owner": "dpkp",
                     "repo": "kafka-python",
-                    "stars": 5898,
+                    "stars": 5899,
                     "topics": [
                       "kafka",
                       "python"
@@ -4771,7 +4771,7 @@
                     "open_issues": 0,
                     "owner": "coleifer",
                     "repo": "peewee",
-                    "stars": 11985,
+                    "stars": 11984,
                     "topics": [
                       "asyncio",
                       "dank",
@@ -4998,7 +4998,7 @@
                     "open_issues": 319,
                     "owner": "pynamodb",
                     "repo": "PynamoDB",
-                    "stars": 2648,
+                    "stars": 2647,
                     "topics": [
                       "aws",
                       "dynamodb",
@@ -5429,7 +5429,7 @@
                 "open_issues": 33,
                 "owner": "django-guardian",
                 "repo": "django-guardian",
-                "stars": 3912,
+                "stars": 3910,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -5541,7 +5541,7 @@
                 "open_issues": 106,
                 "owner": "awesto",
                 "repo": "django-shop",
-                "stars": 3320,
+                "stars": 3321,
                 "topics": [
                   "django",
                   "django-shop",
@@ -5785,10 +5785,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T17:54:56Z",
-                    "open_issues": 80,
+                    "open_issues": 87,
                     "owner": "fastapi",
                     "repo": "fastapi",
-                    "stars": 101928,
+                    "stars": 101941,
                     "topics": [
                       "api",
                       "async",
@@ -5972,7 +5972,7 @@
                     "open_issues": 2,
                     "owner": "pennersr",
                     "repo": "django-allauth",
-                    "stars": 10375,
+                    "stars": 10374,
                     "topics": [
                       "accounts",
                       "authentication",
@@ -6004,8 +6004,8 @@
                     "id": 108510280,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-27T04:41:40Z",
-                    "open_issues": 142,
+                    "last_commit": "2026-08-30T12:12:18Z",
+                    "open_issues": 143,
                     "owner": "authlib",
                     "repo": "authlib",
                     "stars": 5408,
@@ -6040,7 +6040,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-23T07:23:35Z",
-                    "open_issues": 42,
+                    "open_issues": 43,
                     "owner": "django-oauth",
                     "repo": "django-oauth-toolkit",
                     "stars": 3334,
@@ -6068,7 +6068,7 @@
                     "open_issues": 75,
                     "owner": "joestump",
                     "repo": "python-oauth2",
-                    "stars": 3009,
+                    "stars": 3010,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -6272,7 +6272,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-04-14T00:39:48Z",
-                    "open_issues": 120,
+                    "open_issues": 122,
                     "owner": "mpdavis",
                     "repo": "python-jose",
                     "stars": 1756,
@@ -6351,7 +6351,7 @@
                 "open_issues": 102,
                 "owner": "pallets",
                 "repo": "jinja",
-                "stars": 11753,
+                "stars": 11751,
                 "topics": [
                   "jinja",
                   "jinja2",
@@ -6382,7 +6382,7 @@
                 "id": 2703394,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-16T13:54:43Z",
+                "last_commit": "2026-08-30T13:42:59Z",
                 "open_issues": 0,
                 "owner": "coleifer",
                 "repo": "huey",
@@ -6752,7 +6752,7 @@
                 "open_issues": 23,
                 "owner": "django-cache-machine",
                 "repo": "django-cache-machine",
-                "stars": 884,
+                "stars": 883,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -6840,7 +6840,7 @@
                 "language": "Python",
                 "license": "ISC",
                 "last_commit": "2026-08-29T12:49:52Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "modoboa",
                 "repo": "modoboa",
                 "stars": 3532,
@@ -7336,7 +7336,7 @@
                 "id": 1755413,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T02:51:44Z",
+                "last_commit": "2026-08-30T02:45:49Z",
                 "open_issues": 139,
                 "owner": "xhtml2pdf",
                 "repo": "xhtml2pdf",
@@ -7502,7 +7502,7 @@
                 "open_issues": 300,
                 "owner": "binux",
                 "repo": "pyspider",
-                "stars": 16773,
+                "stars": 16772,
                 "topics": [
                   "crawler",
                   "python"
@@ -7597,7 +7597,7 @@
                 "open_issues": 63,
                 "owner": "my8100",
                 "repo": "scrapydweb",
-                "stars": 3410,
+                "stars": 3409,
                 "topics": [
                   "dashboard",
                   "log-analysis",
@@ -7710,11 +7710,11 @@
                 "id": 21476229,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-27T13:08:18Z",
+                "last_commit": "2026-08-30T21:23:31Z",
                 "open_issues": 60,
                 "owner": "deanmalmgren",
                 "repo": "textract",
-                "stars": 4701,
+                "stars": 4702,
                 "topics": [
                   "data-mining",
                   "natural-language-processing",
@@ -7818,7 +7818,7 @@
                 "open_issues": 96,
                 "owner": "Alir3z4",
                 "repo": "html2text",
-                "stars": 2168,
+                "stars": 2167,
                 "topics": [
                   "markdown",
                   "markdown-parser",
@@ -7860,11 +7860,11 @@
                 "id": 3848869,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-30T01:12:51Z",
+                "last_commit": "2026-08-30T12:38:00Z",
                 "open_issues": 0,
                 "owner": "coleifer",
                 "repo": "micawber",
-                "stars": 680,
+                "stars": 679,
                 "topics": [
                   "oembed",
                   "python"
@@ -7984,8 +7984,8 @@
                 "id": 12082924,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-28T09:53:52Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-30T13:30:37Z",
+                "open_issues": 0,
                 "owner": "zostera",
                 "repo": "django-bootstrap3",
                 "stars": 2330,
@@ -8009,8 +8009,8 @@
                 "id": 89379547,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-28T09:53:57Z",
-                "open_issues": 18,
+                "last_commit": "2026-08-30T13:31:31Z",
+                "open_issues": 17,
                 "owner": "zostera",
                 "repo": "django-bootstrap4",
                 "stars": 1024,
@@ -8114,7 +8114,7 @@
                 "open_issues": 109,
                 "owner": "schematics",
                 "repo": "schematics",
-                "stars": 2587,
+                "stars": 2586,
                 "topics": [
                   "datastructures",
                   "deserialization",
@@ -8209,11 +8209,11 @@
                 "id": 14284859,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-26T19:50:20Z",
-                "open_issues": 145,
+                "last_commit": "2026-08-30T18:33:11Z",
+                "open_issues": 148,
                 "owner": "marshmallow-code",
                 "repo": "marshmallow",
-                "stars": 7242,
+                "stars": 7240,
                 "topics": [
                   "deserialization",
                   "marshalling",
@@ -8295,7 +8295,7 @@
                 "id": 42155092,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T16:21:03Z",
+                "last_commit": "2026-08-30T08:46:38Z",
                 "open_issues": 22,
                 "owner": "python-rapidjson",
                 "repo": "python-rapidjson",
@@ -8412,7 +8412,7 @@
                 "open_issues": 10,
                 "owner": "ajenti",
                 "repo": "ajenti",
-                "stars": 7963,
+                "stars": 7964,
                 "topics": [
                   "administration",
                   "ajenti",
@@ -8441,7 +8441,7 @@
                 "open_issues": 156,
                 "owner": "mher",
                 "repo": "flower",
-                "stars": 7235,
+                "stars": 7238,
                 "topics": [
                   "administration",
                   "asynchronous",
@@ -8472,7 +8472,7 @@
                 "open_issues": 128,
                 "owner": "pallets-eco",
                 "repo": "flask-admin",
-                "stars": 6071,
+                "stars": 6070,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -8806,7 +8806,7 @@
                 "language": "Cython",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-14T16:30:56Z",
-                "open_issues": 156,
+                "open_issues": 157,
                 "owner": "MagicStack",
                 "repo": "uvloop",
                 "stars": 11894,
@@ -9136,7 +9136,7 @@
                 "open_issues": 32,
                 "owner": "stephenmcd",
                 "repo": "django-socketio",
-                "stars": 1314,
+                "stars": 1313,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -9185,8 +9185,8 @@
                 "id": 19062086,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T18:31:43Z",
-                "open_issues": 7,
+                "last_commit": "2026-08-30T12:06:07Z",
+                "open_issues": 8,
                 "owner": "hivesolutions",
                 "repo": "netius",
                 "stars": 118,
@@ -9220,11 +9220,11 @@
                 "id": 92946971,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T09:02:15Z",
-                "open_issues": 88,
+                "last_commit": "2026-08-30T07:13:54Z",
+                "open_issues": 85,
                 "owner": "Kludex",
                 "repo": "uvicorn",
-                "stars": 10934,
+                "stars": 10935,
                 "topics": [
                   "asgi",
                   "asyncio",
@@ -9403,7 +9403,7 @@
                 "open_issues": 329,
                 "owner": "hoffstadt",
                 "repo": "DearPyGui",
-                "stars": 15589,
+                "stars": 15587,
                 "topics": [
                   "cpp",
                   "cross-platform",
@@ -9436,11 +9436,11 @@
                 "id": 140614233,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-08-28T12:01:17Z",
+                "last_commit": "2026-08-30T16:02:28Z",
                 "open_issues": 706,
                 "owner": "PySimpleGUI",
                 "repo": "PySimpleGUI",
-                "stars": 13809,
+                "stars": 13810,
                 "topics": [
                   "beginner-friendly",
                   "datavisualization",
@@ -9482,7 +9482,7 @@
                 "open_issues": 216,
                 "owner": "python-eel",
                 "repo": "Eel",
-                "stars": 6736,
+                "stars": 6735,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -9501,11 +9501,11 @@
                 "id": 26908699,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T20:45:15Z",
-                "open_issues": 14,
+                "last_commit": "2026-08-30T20:44:15Z",
+                "open_issues": 15,
                 "owner": "r0x0r",
                 "repo": "pywebview",
-                "stars": 5999,
+                "stars": 5998,
                 "topics": [
                   "cef",
                   "cocoa",
@@ -9535,11 +9535,11 @@
                 "id": 22529973,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-23T22:06:16Z",
-                "open_issues": 309,
+                "last_commit": "2026-08-30T20:03:34Z",
+                "open_issues": 313,
                 "owner": "beeware",
                 "repo": "toga",
-                "stars": 5406,
+                "stars": 5407,
                 "topics": [
                   "gui",
                   "python"
@@ -9616,11 +9616,11 @@
                 "id": 100401612,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T18:36:14Z",
-                "open_issues": 254,
+                "last_commit": "2026-08-30T17:08:10Z",
+                "open_issues": 253,
                 "owner": "Delgan",
                 "repo": "loguru",
-                "stars": 24089,
+                "stars": 24088,
                 "topics": [
                   "log",
                   "logger",
@@ -9643,7 +9643,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-28T20:29:41Z",
-                "open_issues": 438,
+                "open_issues": 439,
                 "owner": "getsentry",
                 "repo": "sentry-python",
                 "stars": 2201,
@@ -9684,7 +9684,7 @@
                     "id": 21273155,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T18:09:16Z",
+                    "last_commit": "2026-08-30T20:10:37Z",
                     "open_issues": 301,
                     "owner": "robotframework",
                     "repo": "robotframework",
@@ -9714,11 +9714,11 @@
                     "id": 8685799,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-30T00:09:00Z",
-                    "open_issues": 47,
+                    "last_commit": "2026-08-31T00:49:45Z",
+                    "open_issues": 44,
                     "owner": "HypothesisWorks",
                     "repo": "hypothesis",
-                    "stars": 8920,
+                    "stars": 8921,
                     "topics": [
                       "fuzzing",
                       "property-based-testing",
@@ -9863,7 +9863,7 @@
                     "open_issues": 3,
                     "owner": "locustio",
                     "repo": "locust",
-                    "stars": 28115,
+                    "stars": 28113,
                     "topics": [
                       "benchmarking",
                       "http",
@@ -9913,11 +9913,11 @@
                     "id": 203157084,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T17:33:53Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-08-30T09:34:19Z",
+                    "open_issues": 9,
                     "owner": "schemathesis",
                     "repo": "schemathesis",
-                    "stars": 3566,
+                    "stars": 3569,
                     "topics": [
                       "api",
                       "api-testing",
@@ -9978,7 +9978,7 @@
                     "open_issues": 167,
                     "owner": "spulec",
                     "repo": "freezegun",
-                    "stars": 4525,
+                    "stars": 4524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -9996,7 +9996,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-26T19:17:35Z",
-                    "open_issues": 40,
+                    "open_issues": 41,
                     "owner": "getsentry",
                     "repo": "responses",
                     "stars": 4345,
@@ -10022,7 +10022,7 @@
                     "open_issues": 161,
                     "owner": "kevin1024",
                     "repo": "vcrpy",
-                    "stars": 2987,
+                    "stars": 2988,
                     "topics": [
                       "http",
                       "mocking",
@@ -10071,7 +10071,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-26T10:24:07Z",
-                    "open_issues": 6,
+                    "open_issues": 5,
                     "owner": "mindflayer",
                     "repo": "python-mocket",
                     "stars": 311,
@@ -10263,7 +10263,7 @@
                 "open_issues": 34,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38309,
+                "stars": 38319,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -10321,7 +10321,7 @@
                 "open_issues": 95,
                 "owner": "Manisso",
                 "repo": "fsociety",
-                "stars": 12280,
+                "stars": 12283,
                 "topics": [
                   "brute-force-attacks",
                   "desktop",
@@ -10368,7 +10368,7 @@
                     "open_issues": 167,
                     "owner": "facebook",
                     "repo": "pyre-check",
-                    "stars": 7172,
+                    "stars": 7171,
                     "topics": [
                       "abstract-interpretation",
                       "code-quality",
@@ -10397,11 +10397,11 @@
                     "id": 31696383,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-30T00:25:47Z",
-                    "open_issues": 378,
+                    "last_commit": "2026-08-31T00:26:12Z",
+                    "open_issues": 382,
                     "owner": "python",
                     "repo": "typeshed",
-                    "stars": 5117,
+                    "stars": 5118,
                     "topics": [
                       "python",
                       "stub",
@@ -10460,7 +10460,7 @@
                     "open_issues": 71,
                     "owner": "jendrikseipp",
                     "repo": "vulture",
-                    "stars": 4782,
+                    "stars": 4784,
                     "topics": [
                       "dead-code-removal",
                       "python"
@@ -10505,7 +10505,7 @@
                     "open_issues": 32,
                     "owner": "prospector-dev",
                     "repo": "prospector",
-                    "stars": 2087,
+                    "stars": 2086,
                     "topics": [
                       "hactoberfest",
                       "linter",
@@ -10609,7 +10609,7 @@
                     "id": 124593057,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T10:45:59Z",
+                    "last_commit": "2026-08-30T07:45:24Z",
                     "open_issues": 13,
                     "owner": "wemake-services",
                     "repo": "wemake-python-styleguide",
@@ -10688,10 +10688,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-20T13:01:16Z",
-                    "open_issues": 317,
+                    "open_issues": 308,
                     "owner": "psf",
                     "repo": "black",
-                    "stars": 41821,
+                    "stars": 41822,
                     "topics": [
                       "autopep8",
                       "code",
@@ -10817,7 +10817,7 @@
                     "open_issues": 78,
                     "owner": "Instagram",
                     "repo": "MonkeyType",
-                    "stars": 4997,
+                    "stars": 4998,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:01.120Z"
@@ -11168,7 +11168,7 @@
                     "open_issues": 64,
                     "owner": "gruns",
                     "repo": "icecream",
-                    "stars": 10109,
+                    "stars": 10108,
                     "topics": [
                       "debug",
                       "debugging",
@@ -11328,7 +11328,7 @@
                 "open_issues": 370,
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20073,
+                "stars": 20075,
                 "topics": [
                   "algorithmic-trading",
                   "python",
@@ -11351,7 +11351,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-29T17:14:43Z",
-                "open_issues": 5967,
+                "open_issues": 5971,
                 "owner": "sympy",
                 "repo": "sympy",
                 "stars": 14898,
@@ -11378,10 +11378,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-29T13:22:51Z",
-                "open_issues": 2806,
+                "open_issues": 2807,
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11599,
+                "stars": 11600,
                 "topics": [
                   "count-model",
                   "data-analysis",
@@ -11412,11 +11412,11 @@
                 "id": 192904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T17:30:00Z",
+                "last_commit": "2026-08-31T00:04:24Z",
                 "open_issues": 490,
                 "owner": "pymc-devs",
                 "repo": "pymc",
-                "stars": 9731,
+                "stars": 9732,
                 "topics": [
                   "bayesian-inference",
                   "mcmc",
@@ -11701,7 +11701,7 @@
                 "open_issues": 32,
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35024,
+                "stars": 35022,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -11722,7 +11722,7 @@
                 "open_issues": 388,
                 "owner": "mingrammer",
                 "repo": "diagrams",
-                "stars": 42565,
+                "stars": 42568,
                 "topics": [
                   "architecture",
                   "diagram",
@@ -11744,11 +11744,11 @@
                 "id": 3834332,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T18:55:01Z",
-                "open_issues": 847,
+                "last_commit": "2026-08-31T00:46:57Z",
+                "open_issues": 855,
                 "owner": "bokeh",
                 "repo": "bokeh",
-                "stars": 20437,
+                "stars": 20436,
                 "topics": [
                   "bokeh",
                   "data-visualisation",
@@ -11782,7 +11782,7 @@
                 "open_issues": 4,
                 "owner": "pyecharts",
                 "repo": "pyecharts",
-                "stars": 15775,
+                "stars": 15773,
                 "topics": [
                   "echarts",
                   "python"
@@ -11803,7 +11803,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-07-06T02:11:55Z",
-                "open_issues": 228,
+                "open_issues": 227,
                 "owner": "mwaskom",
                 "repo": "seaborn",
                 "stars": 14008,
@@ -11833,7 +11833,7 @@
                 "open_issues": 147,
                 "owner": "vega",
                 "repo": "altair",
-                "stars": 10460,
+                "stars": 10461,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -11927,7 +11927,7 @@
                 "open_issues": 42,
                 "owner": "wrobstory",
                 "repo": "vincent",
-                "stars": 2020,
+                "stars": 2019,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -12017,7 +12017,7 @@
                 "open_issues": 832,
                 "owner": "ageitgey",
                 "repo": "face_recognition",
-                "stars": 56690,
+                "stars": 56696,
                 "topics": [
                   "face-detection",
                   "face-recognition",
@@ -12043,7 +12043,7 @@
                 "open_issues": 530,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29951,
+                "stars": 29954,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -12076,11 +12076,11 @@
                 "id": 145693916,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T20:34:16Z",
-                "open_issues": 122,
+                "last_commit": "2026-08-30T22:05:56Z",
+                "open_issues": 118,
                 "owner": "kornia",
                 "repo": "kornia",
-                "stars": 11334,
+                "stars": 11336,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -12134,7 +12134,7 @@
                 "open_issues": 46,
                 "owner": "sirfz",
                 "repo": "tesserocr",
-                "stars": 2171,
+                "stars": 2170,
                 "topics": [
                   "cython",
                   "ocr",
@@ -12344,7 +12344,7 @@
                 "open_issues": 30,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74211,
+                "stars": 74219,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -12365,7 +12365,7 @@
                 "open_issues": 3,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39660,
+                "stars": 39665,
                 "topics": [
                   "agents",
                   "ai",
@@ -12420,10 +12420,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T12:48:25Z",
-                "open_issues": 428,
+                "open_issues": 429,
                 "owner": "dmlc",
                 "repo": "xgboost",
-                "stars": 28710,
+                "stars": 28715,
                 "topics": [
                   "distributed-systems",
                   "gbdt",
@@ -12480,7 +12480,7 @@
                 "open_issues": 2883,
                 "owner": "h2oai",
                 "repo": "h2o-3",
-                "stars": 7496,
+                "stars": 7497,
                 "topics": [
                   "automl",
                   "big-data",
@@ -12590,7 +12590,7 @@
                 "open_issues": 36,
                 "owner": "benhamner",
                 "repo": "Metrics",
-                "stars": 1650,
+                "stars": 1649,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -12681,7 +12681,7 @@
                 "open_issues": 86,
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14292,
+                "stars": 14291,
                 "topics": [
                   "approximate-nearest-neighbor-search",
                   "c-plus-plus",
@@ -12903,11 +12903,11 @@
                 "id": 71932349,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T21:58:04Z",
-                "open_issues": 3537,
+                "last_commit": "2026-08-31T00:13:33Z",
+                "open_issues": 3547,
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 43648,
+                "stars": 43659,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -12973,10 +12973,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T18:46:39Z",
-                "open_issues": 1319,
+                "open_issues": 1320,
                 "owner": "dask",
                 "repo": "dask",
-                "stars": 13904,
+                "stars": 13907,
                 "topics": [
                   "dask",
                   "numpy",
@@ -13002,7 +13002,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-07-27T10:27:41Z",
-                "open_issues": 279,
+                "open_issues": 280,
                 "owner": "robinhood",
                 "repo": "faust",
                 "stars": 6825,
@@ -13172,7 +13172,7 @@
                 "open_issues": 138,
                 "owner": "pytoolz",
                 "repo": "toolz",
-                "stars": 5152,
+                "stars": 5153,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -13255,7 +13255,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:29:12Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "more-itertools",
                 "repo": "more-itertools",
                 "stars": 4088,
@@ -13279,7 +13279,7 @@
                 "open_issues": 15,
                 "owner": "Suor",
                 "repo": "funcy",
-                "stars": 3510,
+                "stars": 3511,
                 "topics": [
                   "functional-programming",
                   "python",
@@ -13325,7 +13325,7 @@
                 "open_issues": 34,
                 "owner": "pytoolz",
                 "repo": "cytoolz",
-                "stars": 1113,
+                "stars": 1114,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -13353,7 +13353,7 @@
                 "open_issues": 191,
                 "owner": "boto",
                 "repo": "boto3",
-                "stars": 9887,
+                "stars": 9890,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -13429,7 +13429,7 @@
                 "open_issues": 38,
                 "owner": "mobolic",
                 "repo": "facebook-sdk",
-                "stars": 2796,
+                "stars": 2797,
                 "topics": [
                   "facebook",
                   "facebook-sdk",
@@ -13454,7 +13454,7 @@
                 "open_issues": 29,
                 "owner": "ryanmcgrath",
                 "repo": "twython",
-                "stars": 1860,
+                "stars": 1859,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -13496,7 +13496,7 @@
                 "open_issues": 3,
                 "owner": "jgorset",
                 "repo": "facepy",
-                "stars": 851,
+                "stars": 850,
                 "topics": [
                   "api-client",
                   "facebook",
@@ -13555,7 +13555,7 @@
                 "open_issues": 836,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70495,
+                "stars": 70507,
                 "topics": [
                   "ansible",
                   "python"
@@ -13576,10 +13576,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T21:19:39Z",
-                "open_issues": 1943,
+                "open_issues": 1946,
                 "owner": "saltstack",
                 "repo": "salt",
-                "stars": 15638,
+                "stars": 15637,
                 "topics": [
                   "cloud",
                   "cloud-management",
@@ -13618,7 +13618,7 @@
                 "open_issues": 260,
                 "owner": "giampaolo",
                 "repo": "psutil",
-                "stars": 11271,
+                "stars": 11272,
                 "topics": [
                   "cpu",
                   "cross-platform",
@@ -13667,10 +13667,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-27T08:34:25Z",
-                "open_issues": 175,
+                "open_issues": 176,
                 "owner": "pyinfra-dev",
                 "repo": "pyinfra",
-                "stars": 5972,
+                "stars": 5970,
                 "topics": [
                   "cloud-management",
                   "configuration-management",
@@ -13819,11 +13819,11 @@
                 "id": 139199684,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T19:55:27Z",
-                "open_issues": 857,
+                "last_commit": "2026-08-30T11:50:25Z",
+                "open_issues": 865,
                 "owner": "PrefectHQ",
                 "repo": "prefect",
-                "stars": 23715,
+                "stars": 23726,
                 "topics": [
                   "automation",
                   "data",
@@ -13880,7 +13880,7 @@
                 "open_issues": 8,
                 "owner": "sartography",
                 "repo": "SpiffWorkflow",
-                "stars": 1913,
+                "stars": 1914,
                 "topics": [
                   "bpmn",
                   "bpmn-engine",
@@ -13951,7 +13951,7 @@
                 "open_issues": 16,
                 "owner": "gunnery",
                 "repo": "gunnery",
-                "stars": 770,
+                "stars": 769,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -13976,7 +13976,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-08-25T17:40:46Z",
-                "open_issues": 142,
+                "open_issues": 143,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2234,
@@ -14009,10 +14009,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T08:29:56Z",
-                "open_issues": 1535,
+                "open_issues": 1537,
                 "owner": "micropython",
                 "repo": "micropython",
-                "stars": 22021,
+                "stars": 22027,
                 "topics": [
                   "embedded",
                   "microcontroller",
@@ -14077,7 +14077,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-17T12:33:36Z",
-                "open_issues": 313,
+                "open_issues": 314,
                 "owner": "IronLanguages",
                 "repo": "ironpython3",
                 "stars": 2759,
@@ -14106,7 +14106,7 @@
                 "open_issues": 28,
                 "owner": "Maratyszcza",
                 "repo": "PeachPy",
-                "stars": 2058,
+                "stars": 2059,
                 "topics": [
                   "assembler",
                   "assembly",
@@ -14223,7 +14223,7 @@
                 "open_issues": 174,
                 "owner": "napalm-automation",
                 "repo": "napalm",
-                "stars": 2493,
+                "stars": 2494,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -14289,11 +14289,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-28T15:14:55Z",
-                "open_issues": 131,
+                "last_commit": "2026-08-30T18:27:12Z",
+                "open_issues": 130,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12502,
+                "stars": 12505,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -14438,11 +14438,11 @@
                     "id": 63476337,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T00:17:23Z",
-                    "open_issues": 1064,
+                    "last_commit": "2026-08-30T17:14:01Z",
+                    "open_issues": 1061,
                     "owner": "TheAlgorithms",
                     "repo": "Python",
-                    "stars": 224116,
+                    "stars": 224136,
                     "topics": [
                       "algorithm",
                       "algorithm-competitions",
@@ -14474,11 +14474,11 @@
                     "id": 74073233,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-27T17:12:38Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-08-30T06:50:03Z",
+                    "open_issues": 4,
                     "owner": "keon",
                     "repo": "algorithms",
-                    "stars": 25541,
+                    "stars": 25542,
                     "topics": [
                       "algorithm",
                       "algorithms",
@@ -14569,7 +14569,7 @@
                     "open_issues": 17,
                     "owner": "faif",
                     "repo": "python-patterns",
-                    "stars": 42950,
+                    "stars": 42949,
                     "topics": [
                       "design-patterns",
                       "idioms",
@@ -14594,7 +14594,7 @@
                     "open_issues": 21,
                     "owner": "pytransitions",
                     "repo": "transitions",
-                    "stars": 6581,
+                    "stars": 6582,
                     "topics": [
                       "hierarchical-state-machine",
                       "nested-states",
@@ -14655,7 +14655,7 @@
                 "open_issues": 151,
                 "owner": "python-attrs",
                 "repo": "attrs",
-                "stars": 5835,
+                "stars": 5834,
                 "topics": [
                   "attributes",
                   "boilerplate",
@@ -14682,7 +14682,7 @@
                 "open_issues": 46,
                 "owner": "cdgriffith",
                 "repo": "Box",
-                "stars": 2831,
+                "stars": 2830,
                 "topics": [
                   "addict",
                   "box",
@@ -14716,7 +14716,7 @@
                 "open_issues": 1,
                 "owner": "jab",
                 "repo": "bidict",
-                "stars": 1586,
+                "stars": 1587,
                 "topics": [
                   "bidict",
                   "bimap",
@@ -14770,7 +14770,7 @@
                 "open_issues": 51,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30403,
+                "stars": 30409,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -14941,7 +14941,7 @@
                     "open_issues": 36,
                     "owner": "ycm-core",
                     "repo": "YouCompleteMe",
-                    "stars": 25896,
+                    "stars": 25895,
                     "topics": [
                       "code-analysis",
                       "code-completion",
@@ -15045,7 +15045,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-29T06:05:05Z",
-                    "open_issues": 1340,
+                    "open_issues": 1342,
                     "owner": "spyder-ide",
                     "repo": "spyder",
                     "stars": 9299,
@@ -15112,7 +15112,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-06-26T07:57:25Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "tartiflette",
                 "repo": "tartiflette-asgi",
                 "stars": 99,
@@ -15178,7 +15178,7 @@
                 "open_issues": 32,
                 "owner": "vnpy",
                 "repo": "vnpy",
-                "stars": 44858,
+                "stars": 44979,
                 "topics": [
                   "algotrading",
                   "finance",
@@ -15208,7 +15208,7 @@
                 "open_issues": 6,
                 "owner": "bbfamily",
                 "repo": "abu",
-                "stars": 18259,
+                "stars": 18485,
                 "topics": [
                   "algorithmic-trading",
                   "bitcoin",
@@ -15241,7 +15241,7 @@
                 "open_issues": 239,
                 "owner": "yutiansut",
                 "repo": "QUANTAXIS",
-                "stars": 11056,
+                "stars": 11067,
                 "topics": [
                   "quant"
                 ]
@@ -15301,7 +15301,7 @@
                 "open_issues": 428,
                 "owner": "magenta",
                 "repo": "magenta",
-                "stars": 19806,
+                "stars": 19805,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:01.120Z"
@@ -15322,7 +15322,7 @@
                 "open_issues": 75,
                 "owner": "mahmoud",
                 "repo": "boltons",
-                "stars": 6919,
+                "stars": 6918,
                 "topics": [
                   "cache",
                   "data-science",
@@ -15355,7 +15355,7 @@
                 "open_issues": 4,
                 "owner": "pallets",
                 "repo": "itsdangerous",
-                "stars": 3130,
+                "stars": 3131,
                 "topics": [
                   "hmac",
                   "itsdangerous",
@@ -15383,7 +15383,7 @@
                 "open_issues": 0,
                 "owner": "pallets-eco",
                 "repo": "blinker",
-                "stars": 2090,
+                "stars": 2089,
                 "topics": [
                   "blinker",
                   "python",
@@ -15423,7 +15423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:13:33.195Z",
+    "last_updated": "2026-08-31T01:21:38.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
