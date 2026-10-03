@@ -1,6 +1,6 @@
 # Awesome Python 资源大全中文版 with stars
 
-[awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,760 | 🐛 20 | 🌐 Python | 📅 2026-10-02 是 vinta 发起维护的 Python 资源列表，内容包括：Web 框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由「开源前哨」和「Python开发者」微信公号团队维护更新。
+[awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,781 | 🐛 21 | 🌐 Python | 📅 2026-10-02 是 vinta 发起维护的 Python 资源列表，内容包括：Web 框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由「开源前哨」和「Python开发者」微信公号团队维护更新。
 
 ### 本项目的参与者
 
@@ -16,7 +16,7 @@
 
 管理 Python 版本和环境的工具
 
-* [pyenv](https://github.com/yyuu/pyenv) ⭐ 45,120 | 🐛 51 | 🌐 Shell | 📅 2026-10-02：简单的 Python 版本管理工具。
+* [pyenv](https://github.com/yyuu/pyenv) ⭐ 45,121 | 🐛 52 | 🌐 Shell | 📅 2026-10-03：简单的 Python 版本管理工具。
 * [p](https://github.com/qw3rtman/p) ⭐ 770 | 🐛 29 | 🌐 Shell | 📅 2019-11-01：非常简单的交互式 Python 版本管理工具。
 * [Vex](https://github.com/sashahart/vex) ⭐ 370 | 🐛 10 | 🌐 Python | 📅 2021-10-30：可以在虚拟环境中执行命令。
 * [virtualenv](https://pypi.python.org/pypi/virtualenv)：创建独立 Python 环境的工具。
@@ -50,7 +50,7 @@
 打包为可执行文件以便分发。
 
 * [PyInstaller](https://github.com/pyinstaller/pyinstaller) ⭐ 13,114 | 🐛 289 | 🌐 Python | 📅 2026-09-28：将 Python 程序转换成独立的执行文件（跨平台）。
-* [pyarmor](https://github.com/dashingsoft/pyarmor) ⭐ 5,206 | 🐛 15 | 🌐 Python | 📅 2026-09-19：一个用于加密 python 脚本的工具，也可以将加密后的脚本绑定到固件上，或设置已加密脚本的有效期。
+* [pyarmor](https://github.com/dashingsoft/pyarmor) ⭐ 5,206 | 🐛 14 | 🌐 Python | 📅 2026-09-19：一个用于加密 python 脚本的工具，也可以将加密后的脚本绑定到固件上，或设置已加密脚本的有效期。
 * [shiv](https://github.com/linkedin/shiv) ⭐ 1,947 | 🐛 65 | 🌐 Python | 📅 2026-05-22：一个命令行工具，可用于构建完全独立的 zip 应用（PEP 441 所描述的那种），同时包含了所有的依赖项。
 * [cx\_Freeze](https://cx-freeze.readthedocs.io/en/latest/index.html)：将python程序转换为带有一个动态链接库的可执行文件。
 * [dh-virtualenv](http://dh-virtualenv.readthedocs.org/)：构建并将 virtualenv 虚拟环境作为一个 Debian 包来发布。
@@ -64,7 +64,7 @@
 将源码编译成软件。
 
 * [PlatformIO](https://github.com/platformio/platformio) ⭐ 9,498 | 🐛 276 | 🌐 Python | 📅 2026-09-23：多平台命令行构建工具。
-* [PyBuilder](https://github.com/pybuilder/pybuilder) ⭐ 2,050 | 🐛 101 | 🌐 Python | 📅 2026-09-13：纯 Python 实现的持续化构建工具。
+* [PyBuilder](https://github.com/pybuilder/pybuilder) ⭐ 2,051 | 🐛 101 | 🌐 Python | 📅 2026-09-13：纯 Python 实现的持续化构建工具。
 * [buildout](http://www.buildout.org/)：一个构建系统，从多个组件来创建，组装和部署应用。
 * [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html)：针对嵌入式 Linux 的类似 make 的构建工具。
 * [fabricate](https://code.google.com/archive/p/fabricate)：对任何语言自动找到依赖关系的构建工具。
@@ -75,10 +75,10 @@
 交互式 Python 解析器。
 
 * [IPython](https://github.com/ipython/ipython) ⭐ 16,785 | 🐛 1,305 | 🌐 Python | 📅 2026-10-01：功能丰富的工具，非常有效的使用交互式 Python。
-* [ptpython](https://github.com/jonathanslenders/ptpython) ⭐ 5,456 | 🐛 265 | 🌐 Python | 📅 2025-11-21：高级交互式 Python 解析器， 构建于 [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) ⭐ 10,592 | 🐛 736 | 🌐 Python | 📅 2026-07-26 之上。
+* [ptpython](https://github.com/jonathanslenders/ptpython) ⭐ 5,456 | 🐛 265 | 🌐 Python | 📅 2025-11-21：高级交互式 Python 解析器， 构建于 [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) ⭐ 10,592 | 🐛 737 | 🌐 Python | 📅 2026-07-26 之上。
 * [bpython](https://github.com/bpython/bpython) ⭐ 2,776 | 🐛 150 | 🌐 Python | 📅 2026-09-02：界面丰富的 Python 解析器。
 * [Jupyter Notebook (IPython)](https://jupyter.org)：一个能够让你最大限度地以交互式方式使用 Python 的丰富工具包。
-  * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,678 | 🐛 8 | 📅 2026-10-01
+  * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,678 | 🐛 8 | 📅 2026-10-03
 
 ### 文件
 
@@ -98,8 +98,8 @@
 
 操作日期和时间的类库。
 
-* [arrow](https://github.com/crsmithdev/arrow) ⭐ 9,053 | 🐛 208 | 🌐 Python | 📅 2026-06-22：更好的 Python 日期时间操作类库。
-* [pendulum](https://github.com/sdispater/pendulum) ⭐ 6,676 | 🐛 261 | 🌐 Python | 📅 2026-09-29：一个比 arrow 更具有明确的，可预测的行为的时间操作库。
+* [arrow](https://github.com/crsmithdev/arrow) ⭐ 9,052 | 🐛 208 | 🌐 Python | 📅 2026-06-22：更好的 Python 日期时间操作类库。
+* [pendulum](https://github.com/sdispater/pendulum) ⭐ 6,676 | 🐛 262 | 🌐 Python | 📅 2026-09-29：一个比 arrow 更具有明确的，可预测的行为的时间操作库。
 * [maya](https://github.com/kennethreitz/maya) ⭐ 3,410 | 🐛 21 | 🌐 Python | 📅 2024-07-19：人性化的时间处理库。
 * [dateutil](https://github.com/dateutil/dateutil) ⭐ 2,638 | 🐛 501 | 🌐 Python | 📅 2026-09-26：Python 标准包 [datetime](https://docs.python.org/3/library/datetime.html) 的扩展。
 * [delorean](https://github.com/myusuf3/delorean/) ⭐ 1,824 | 🐛 1 | 🌐 Python | 📅 2026-08-01：解决 Python 中有关日期处理的棘手问题的库。
@@ -117,13 +117,13 @@
 
 * 通用
   * [flashtext](https://github.com/vi3k6i5/flashtext) ⭐ 5,706 | 🐛 70 | 🌐 Python | 📅 2025-04-13：一个高效的文本查找替换库。
-  * [pypinyin](https://github.com/mozillazg/python-pinyin) ⭐ 5,367 | 🐛 45 | 🌐 Python | 📅 2026-07-20：汉字拼音转换工具 Python 版。
+  * [pypinyin](https://github.com/mozillazg/python-pinyin) ⭐ 5,368 | 🐛 45 | 🌐 Python | 📅 2026-07-20：汉字拼音转换工具 Python 版。
   * [ftfy](https://github.com/LuminosoInsight/python-ftfy) ⭐ 4,066 | 🐛 26 | 🌐 Python | 📅 2024-10-30：让 Unicode 文本更完整更连贯。
   * [thefuzz](https://github.com/seatgeek/thefuzz) ⭐ 3,655 | 🐛 48 | 🌐 Python | 📅 2025-03-03：模糊字符串匹配。
   * [textdistance](https://github.com/orsinium/textdistance) ⭐ 3,543 | 🐛 11 | 🌐 Python | 📅 2025-04-18：支持 30 多种算法来计算序列之间的距离。
   * [chardet](https://github.com/chardet/chardet) ⭐ 2,676 | 🐛 1 | 🌐 Python | 📅 2026-08-30：字符编码检测器，兼容 Python 2 和 Python 3。
   * [shortuuid](https://github.com/stochastic-technologies/shortuuid) ⭐ 2,199 | 🐛 0 | 🌐 Python | 📅 2026-06-20：一个生成器库，用以生成简洁的，明白的，URL 安全的 UUID。
-  * [simplejson](https://github.com/simplejson/simplejson) ⭐ 1,711 | 🐛 13 | 🌐 Python | 📅 2026-10-03：Python 的 JSON 编码、解码器。
+  * [simplejson](https://github.com/simplejson/simplejson) ⭐ 1,711 | 🐛 12 | 🌐 Python | 📅 2026-10-03：Python 的 JSON 编码、解码器。
   * [pyfiglet](https://github.com/pwaller/pyfiglet) ⭐ 1,587 | 🐛 2 | 🌐 Python | 📅 2026-08-02：figlet 的 Python 实现。
   * [Levenshtein](https://github.com/ztane/python-Levenshtein/) ⭐ 1,276 | 🐛 56 | 🌐 C | 📅 2021-08-11：快速计算编辑距离以及字符串的相似度。
   * [xpinyin](https://github.com/lxneng/xpinyin) ⭐ 831 | 🐛 9 | 🌐 Python | 📅 2025-06-02：一个用于把汉字转换为拼音的库。
@@ -139,7 +139,7 @@
   * [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,773 | 🐛 11 | 🌐 Python | 📅 2026-09-24：解析，格式化，储存，验证电话号码。
   * [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,773 | 🐛 11 | 🌐 Python | 📅 2026-09-24：解析，格式化，存储，校验国际电话号码。
   * [python-user-agents](https://github.com/selwin/python-user-agents) ⭐ 1,515 | 🐛 47 | 🌐 Python | 📅 2023-02-16：浏览器 user agent 解析器。
-  * [python-nameparser](https://github.com/derek73/python-nameparser) ⭐ 716 | 🐛 15 | 🌐 Python | 📅 2026-10-03：把一个人名分解为几个独立的部分。
+  * [python-nameparser](https://github.com/derek73/python-nameparser) ⭐ 716 | 🐛 13 | 🌐 Python | 📅 2026-10-03：把一个人名分解为几个独立的部分。
   * [PLY](http://www.dabeaz.com/ply/)：lex 和 yacc 解析工具的 Python 实现。
   * [Pygments](http://pygments.org/)：通用语法高亮工具。
   * [pyparsing](http://pyparsing.wikispaces.com/)：生成通用解析器的框架。
@@ -170,11 +170,11 @@
 * Markdown
   * [Python-Markdown](https://github.com/waylan/Python-Markdown) ⭐ 4,252 | 🐛 24 | 🌐 Python | 📅 2026-09-30：John Gruber’s Markdown 的 Python 版实现。
   * [Mistune](https://github.com/lepture/mistune) ⭐ 3,076 | 🐛 32 | 🌐 Python | 📅 2026-08-21：快速并且功能齐全的纯 Python 实现的 Markdown 解析器。
-  * [Python-Markdown2](https://github.com/trentm/python-markdown2) ⭐ 2,824 | 🐛 92 | 🌐 Python | 📅 2026-09-30：纯 Python 实现的 Markdown 解析器，比 Python-Markdown 更快，更准确，可扩展。
+  * [Python-Markdown2](https://github.com/trentm/python-markdown2) ⭐ 2,824 | 🐛 93 | 🌐 Python | 📅 2026-09-30：纯 Python 实现的 Markdown 解析器，比 Python-Markdown 更快，更准确，可扩展。
 * YAML
   * [PyYAML](http://pyyaml.org/)：Python 版本的 YAML 解析器。
 * CSV
-  * [csvkit](https://github.com/wireservice/csvkit) ⭐ 6,415 | 🐛 46 | 🌐 Python | 📅 2026-09-21：用于转换和操作 CSV 的工具。
+  * [csvkit](https://github.com/wireservice/csvkit) ⭐ 6,414 | 🐛 46 | 🌐 Python | 📅 2026-09-21：用于转换和操作 CSV 的工具。
 * Archive
   * [unp](https://github.com/mitsuhiko/unp) ⭐ 455 | 🐛 12 | 🌐 Python | 📅 2017-05-17：一个用来方便解包归档文件的命令行工具。
 
@@ -182,7 +182,7 @@
 
 用来处理人类语言的库。
 
-* [funNLP](https://github.com/fighting41love/funNLP) ⭐ 83,628 | 🐛 54 | 🌐 Python | 📅 2024-05-10：中文自然语言处理的工具和数据集。
+* [funNLP](https://github.com/fighting41love/funNLP) ⭐ 83,630 | 🐛 54 | 🌐 Python | 📅 2024-05-10：中文自然语言处理的工具和数据集。
 * [jieba](https://github.com/fxsjy/jieba) ⭐ 35,174 | 🐛 700 | 🌐 Python | 📅 2024-08-21：中文分词工具。
 * [gensim](https://github.com/piskvorky/gensim) ⭐ 16,496 | 🐛 440 | 🌐 Python | 📅 2025-11-01：人性化的话题建模库。
 * [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,889 | 🐛 92 | 🌐 Python | 📅 2026-10-01：斯坦福 NLP 集团的官方 Python 库，支持 60 多种语言。
@@ -228,7 +228,7 @@
 * 命令行程序开发
   * [python-fire](https://github.com/google/python-fire) ⭐ 28,222 | 🐛 202 | 🌐 Python | 📅 2026-07-01：Google 出品的一个基于 Python 类的构建命令行界面的库。
   * [Gooey](https://github.com/chriskiehl/Gooey) ⭐ 21,901 | 🐛 180 | 🌐 Python | 📅 2026-09-12：一条命令，将命令行程序变成一个 GUI 程序。
-  * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) ⭐ 10,592 | 🐛 736 | 🌐 Python | 📅 2026-07-26：一个用于构建强大的交互式命令行程序的库。
+  * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) ⭐ 10,592 | 🐛 737 | 🌐 Python | 📅 2026-07-26：一个用于构建强大的交互式命令行程序的库。
   * [clint](https://github.com/kennethreitz/clint) ⚠️ Archived：Python 命令行程序工具。
   * [cement](http://builtoncement.com/)：Python 的命令行程序框架。
   * [click](http://click.pocoo.org/dev/)：一个通过组合的方式来创建精美命令行界面的包。
@@ -236,20 +236,20 @@
   * [docopt](http://docopt.org/)：Python 风格的命令行参数解析器。
   * [Pythonpy](https://github.com/Russell91/pythonpy/wiki)：在命令行中直接执行任何 Python 指令。
 * 终端呈现方式
-  * [rich](https://github.com/willmcgugan/rich) ⭐ 57,466 | 🐛 380 | 🌐 Python | 📅 2026-06-23：一个在终端中支持富文本和格式美化的 Python 库， 同时提供了`RichHandler`日志处理程序。
-  * [tqdm](https://github.com/tqdm/tqdm) ⭐ 31,350 | 🐛 643 | 🌐 Python | 📅 2026-09-20：一个可在循环和命令行中使用的快速、可扩展的进度条。
+  * [rich](https://github.com/willmcgugan/rich) ⭐ 57,467 | 🐛 380 | 🌐 Python | 📅 2026-06-23：一个在终端中支持富文本和格式美化的 Python 库， 同时提供了`RichHandler`日志处理程序。
+  * [tqdm](https://github.com/tqdm/tqdm) ⭐ 31,351 | 🐛 643 | 🌐 Python | 📅 2026-09-20：一个可在循环和命令行中使用的快速、可扩展的进度条。
   * [alive-progress](https://github.com/rsalmei/alive-progress) ⭐ 6,312 | 🐛 22 | 🌐 Python | 📅 2026-05-24：一款新的进度条，具有实时吞吐量信息以及非常酷的动画。
   * [asciimatics](https://github.com/peterbrittain/asciimatics) ⭐ 4,303 | 🐛 17 | 🌐 Python | 📅 2026-07-04：跨平台，全屏终端包（即鼠标/键盘输入和彩色，定位文本输出），完整的复杂动画和特殊效果的高级 API。
   * [bashplotlib](https://github.com/glamp/bashplotlib) ⭐ 1,920 | 🐛 24 | 🌐 Python | 📅 2024-06-23：在终端中进行基本绘图。
   * [colorama](https://pypi.python.org/pypi/colorama)：跨平台彩色终端文本。
 * 生产力工具
   * [thefuck](https://github.com/nvbn/thefuck) ⭐ 97,891 | 🐛 461 | 🌐 Python | 📅 2024-07-19：修正你之前的命令行指令。
-  * [cookiecutter](https://github.com/audreyr/cookiecutter) ⭐ 25,123 | 🐛 322 | 🌐 Python | 📅 2026-04-01：从 cookiecutters（项目模板）创建项目的一个命令行工具。
-  * [aws-cli](https://github.com/aws/aws-cli) ⭐ 17,286 | 🐛 753 | 🌐 Python | 📅 2026-10-02：Amazon Web Services 的通用命令行界面。
+  * [cookiecutter](https://github.com/audreyr/cookiecutter) ⭐ 25,124 | 🐛 322 | 🌐 Python | 📅 2026-04-01：从 cookiecutters（项目模板）创建项目的一个命令行工具。
+  * [aws-cli](https://github.com/aws/aws-cli) ⭐ 17,287 | 🐛 753 | 🌐 Python | 📅 2026-10-02：Amazon Web Services 的通用命令行界面。
   * [howdoi](https://github.com/gleitz/howdoi) ⭐ 10,841 | 🐛 19 | 🌐 Python | 📅 2026-09-30：通过命令行获取即时的编程问题解答。
   * [PathPicker](https://github.com/facebook/PathPicker) ⭐ 5,236 | 🐛 26 | 🌐 Python | 📅 2024-09-05：从 bash 输出中选出文件。
   * [Invoke](https://github.com/pyinvoke/invoke#readme) ⭐ 4,779 | 🐛 467 | 🌐 Python | 📅 2026-04-07：用于管理面向 shell 的子进程，同时支持将可执行的 Python 代码组织成命令行可调用的状态。
-  * [tmuxp](https://github.com/tony/tmuxp) ⭐ 4,588 | 🐛 138 | 🌐 Python | 📅 2026-10-02： [tmux](https://github.com/tmux/tmux) ⭐ 49,628 | 🐛 46 | 🌐 C | 📅 2026-10-03 会话管理器。
+  * [tmuxp](https://github.com/tony/tmuxp) ⭐ 4,588 | 🐛 138 | 🌐 Python | 📅 2026-10-02： [tmux](https://github.com/tmux/tmux) ⭐ 49,629 | 🐛 47 | 🌐 C | 📅 2026-10-03 会话管理器。
   * [copier](https://github.com/pykong/copier) ⭐ 3,608 | 🐛 144 | 🌐 Python | 📅 2026-09-30：用于呈现项目模板的库和命令行实用程序。
   * [doitlive](https://github.com/sloria/doitlive) ⭐ 3,582 | 🐛 14 | 🌐 Python | 📅 2026-09-08：一个用来在终端中进行现场演示的工具。
   * [percol](https://github.com/mooz/percol) ⭐ 3,321 | 🐛 51 | 🌐 Python | 📅 2023-12-30：向 UNIX shell 传统管道概念中加入交互式选择功能。
@@ -271,7 +271,7 @@
 
 用来进行下载的库.
 
-* [akshare](https://github.com/jindaxiang/akshare) ⭐ 22,813 | 🐛 0 | 🌐 Python | 📅 2026-09-30：为方便人使用而创建的金融数据接口库。
+* [akshare](https://github.com/jindaxiang/akshare) ⭐ 22,814 | 🐛 0 | 🌐 Python | 📅 2026-09-30：为方便人使用而创建的金融数据接口库。
 * [s3cmd](https://github.com/s3tools/s3cmd) ⭐ 4,916 | 🐛 311 | 🌐 Python | 📅 2025-10-22：一个用来管理 Amazon S3 和 CloudFront 的命令行工具。
 * [s4cmd](https://github.com/bloomreach/s4cmd) ⭐ 1,397 | 🐛 117 | 🌐 Python | 📅 2024-07-21：超级 S3 命令行工具，性能更加强劲。
 * [you-get](https://www.soimort.org/you-get/)：一个 YouTube/Youku/Niconico 视频下载器，使用 Python 3 编写。
@@ -281,8 +281,8 @@
 
 用来操作图像的库.
 
-* [face\_recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,792 | 🐛 832 | 🌐 Python | 📅 2026-06-25：简单易用的 Python 人脸识别库。
-* [thumbor](https://github.com/thumbor/thumbor) ⭐ 10,520 | 🐛 8 | 🌐 Python | 📅 2026-10-03：一个小型图像服务，具有剪裁，尺寸重设和翻转功能。
+* [face\_recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,793 | 🐛 832 | 🌐 Python | 📅 2026-06-25：简单易用的 Python 人脸识别库。
+* [thumbor](https://github.com/thumbor/thumbor) ⭐ 10,520 | 🐛 4 | 🌐 Python | 📅 2026-10-03：一个小型图像服务，具有剪裁，尺寸重设和翻转功能。
 * [pywal](https://github.com/dylanaraps/pywal) ⚠️ Archived：由图像生成配色方案的工具。
 * [python-qrcode](https://github.com/lincolnloop/python-qrcode) ⭐ 4,948 | 🐛 58 | 🌐 Python | 📅 2026-03-25：一个纯 Python 实现的二维码生成器。
 * [PyMatting](https://github.com/pymatting/pymatting) ⭐ 1,920 | 🐛 11 | 🌐 Python | 📅 2026-09-08：支持 alpha matting 的库。
@@ -302,7 +302,7 @@
 
 光学字符识别库。
 
-* [paddleocr](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 90,521 | 🐛 248 | 🌐 Python | 📅 2026-09-16: 除光学字符识别外还引入了表格识别。
+* [paddleocr](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 90,526 | 🐛 248 | 🌐 Python | 📅 2026-09-16: 除光学字符识别外还引入了表格识别。
 * [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,393 | 🐛 21 | 🌐 Python | 📅 2026-09-28：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的一个封装。
 * [pyocr](https://gitlab.gnome.org/World/OpenPaperwork/pyocr)：Tesseract 和 Cuneiform 的一个封装。
 
@@ -355,7 +355,7 @@
 
 使用 HTTP 的库。
 
-* [aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,567 | 🐛 215 | 🌐 Python | 📅 2026-10-02：基于 asyncio 的异步 HTTP 网络库。
+* [aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,567 | 🐛 217 | 🌐 Python | 📅 2026-10-02：基于 asyncio 的异步 HTTP 网络库。
 * [httpx](https://github.com/encode/httpx) ⭐ 15,524 | 🐛 140 | 🌐 Python | 📅 2026-10-02：下一代 Python HTTP 客户端。
 * [grequests](https://github.com/kennethreitz/grequests) ⭐ 4,572 | 🐛 11 | 🌐 Python | 📅 2024-08-08：requests 库 + gevent ，用于异步 HTTP 请求。
 * [urllib3](https://github.com/shazow/urllib3) ⭐ 4,068 | 🐛 253 | 🌐 Python | 📅 2026-10-02：一个具有线程安全连接池，支持文件 post，清晰友好的 HTTP 库。
@@ -439,10 +439,10 @@ Python 实现的数据库。
 * [sanic](https://github.com/channelcat/sanic/) ⭐ 18,636 | 🐛 154 | 🌐 Python | 📅 2026-07-29：基于 Python3.5+ 的异步网络框架。
 * [Masonite](https://github.com/MasoniteFramework/masonite) ⭐ 2,360 | 🐛 1 | 🌐 Python | 📅 2026-06-07：以开发者为中心的现代 Python Web 框架。
 * [Django](https://www.djangoproject.com/)：Python 界最流行的 web 框架。
-  * [awesome-django(by wsvincent)](https://github.com/wsvincent/awesome-django) ⭐ 11,267 | 🐛 5 | 🌐 Python | 📅 2026-09-16 系列
+  * [awesome-django(by wsvincent)](https://github.com/wsvincent/awesome-django) ⭐ 11,268 | 🐛 5 | 🌐 Python | 📅 2026-09-16 系列
   * [awesome-django(by shahraizali)](https://github.com/shahraizali/awesome-django) ⭐ 1,916 | 🐛 8 | 📅 2026-03-22 系列
 * [Flask](http://flask.pocoo.org/)：一个 Python 微型框架。
-  * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,782 | 🐛 7 | 📅 2026-08-17 系列
+  * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,784 | 🐛 7 | 📅 2026-08-17 系列
 * [Pyramid](https://pylonsproject.org/)：一个小巧，快速，接地气的开源 Python web 框架。
   * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) ⭐ 572 | 🐛 0 | 📅 2021-07-08 系列
 * [Bottle](http://bottlepy.org/docs/dev/index.html)：一个快速小巧，轻量级的 WSGI 微型 web 框架。
@@ -518,7 +518,7 @@ Web socket 相关库。
 * Pyramid
   * [cornice](https://cornice.readthedocs.org/en/latest/)：一个 Pyramid 的 REST 框架 。
 * 与框架无关的
-  * [fastapi](https://github.com/tiangolo/fastapi) ⭐ 102,770 | 🐛 84 | 🌐 Python | 📅 2026-10-02：一个现代，快速，基于标准 Python 类型注解的的 web框架，可使用 Python3.6+ 版本构建 API。
+  * [fastapi](https://github.com/tiangolo/fastapi) ⭐ 102,773 | 🐛 84 | 🌐 Python | 📅 2026-10-02：一个现代，快速，基于标准 Python 类型注解的的 web框架，可使用 Python3.6+ 版本构建 API。
   * [hug](https://github.com/hugapi/hug) ⭐ 6,879 | 🐛 189 | 🌐 Python | 📅 2024-07-04：一个为纯净公开的 API 打造的 Python 3 框架。
   * [apistar](https://github.com/encode/apistar) ⚠️ Archived：专为Python 3设计的智能 Web API 框架。
   * [sandman](https://github.com/jeffknupp/sandman) ⭐ 2,287 | 🐛 37 | 🌐 Python | 📅 2021-12-25：为现存的数据库驱动系统自动创建 REST APIs 。
@@ -563,8 +563,8 @@ Web socket 相关库。
 
 处理事件以及任务队列的库。
 
-* [huey](https://github.com/coleifer/huey) ⭐ 6,039 | 🐛 0 | 🌐 Python | 📅 2026-10-02：小型多线程任务队列。
-* [daramatiq](https://github.com/Bogdanp/dramatiq) ⭐ 5,323 | 🐛 68 | 🌐 Python | 📅 2026-09-14：适用于Python 3的快速可靠的后台任务处理库。
+* [huey](https://github.com/coleifer/huey) ⭐ 6,039 | 🐛 0 | 🌐 Python | 📅 2026-10-03：小型多线程任务队列。
+* [daramatiq](https://github.com/Bogdanp/dramatiq) ⭐ 5,324 | 🐛 68 | 🌐 Python | 📅 2026-09-14：适用于Python 3的快速可靠的后台任务处理库。
 * [mrq](https://github.com/pricingassistant/mrq) ⭐ 892 | 🐛 63 | 🌐 Python | 📅 2023-06-13：一个 Python 的分布式 worker 任务队列， 使用 Redis 和 gevent。
 * [simpleq](https://github.com/rdegges/simpleq) ⭐ 159 | 🐛 6 | 🌐 Python | 📅 2026-04-13：一个简单的，可无限扩张的，基于亚马逊 SQS 的队列。
 * [celery](http://www.celeryproject.org/)：一个异步任务队列/作业队列，基于分布式消息传递
@@ -732,7 +732,7 @@ Web socket 相关库。
 
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 145 | 🌐 Python | 📅 2026-10-01：一个轻量级的库，用于将复杂对象与简单 Python 数据类型相互转换。
 * [ultrajson](https://github.com/esnme/ultrajson) ⭐ 4,498 | 🐛 31 | 🌐 C++ | 📅 2026-10-01：使用 Python 绑定的，用 C 编写的快速 JSON 解码器和编码器。
-* [pysimdjson](https://github.com/TkTech/pysimdjson) ⭐ 776 | 🐛 15 | 🌐 Python | 📅 2026-04-26：与 Python 绑定的 [simdjson](https://github.com/lemire/simdjson) ⭐ 24,341 | 🐛 74 | 🌐 C++ | 📅 2026-10-02 。
+* [pysimdjson](https://github.com/TkTech/pysimdjson) ⭐ 776 | 🐛 15 | 🌐 Python | 📅 2026-04-26：与 Python 绑定的 [simdjson](https://github.com/lemire/simdjson) ⭐ 24,342 | 🐛 74 | 🌐 C++ | 📅 2026-10-03 。
 * [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) ⭐ 533 | 🐛 21 | 🌐 C++ | 📅 2026-09-06： [RapidJSON](https://github.com/Tencent/rapidjson) ⭐ 15,137 | 🐛 798 | 🌐 C++ | 📅 2025-02-05 的 Python 封装。
 
 ### 反垃圾技术
@@ -874,7 +874,7 @@ Web socket 相关库。
 * [DearPyGui](https://github.com/RaylockLLC/DearPyGui/) ⭐ 15,638 | 🐛 328 | 🌐 C++ | 📅 2026-05-13：一个简单的可使用 GPU 加速的 Python GUI 框架。
 * [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) ⭐ 13,822 | 🐛 708 | 🌐 Python | 📅 2026-08-30：tkinter，Qt，WxPython 和 Remi 的封装。
 * [Eel](https://github.com/ChrisKnott/Eel) ⚠️ Archived：用于制作简单离线 HTML/JS GUI 应用的库。
-* [pywebview](https://github.com/r0x0r/pywebview/) ⭐ 6,074 | 🐛 19 | 🌐 Python | 📅 2026-10-01：围绕网页视图组件的轻量级跨平台的原生包装。
+* [pywebview](https://github.com/r0x0r/pywebview/) ⭐ 6,075 | 🐛 19 | 🌐 Python | 📅 2026-10-01：围绕网页视图组件的轻量级跨平台的原生包装。
 * [Toga](https://github.com/pybee/toga) ⭐ 5,413 | 🐛 311 | 🌐 Python | 📅 2026-10-02：一个 Python 原生的，操作系统原生的 GUI 工具包。
 * [Flexx](https://github.com/zoofIO/flexx) ⭐ 3,329 | 🐛 96 | 🌐 Python | 📅 2026-09-28：Flexx 是一个纯 Python 语言编写的用来创建 GUI 程序的工具集，它使用 web 技术进行界面的展示。
 * [enaml](https://github.com/nucleic/enaml) ⭐ 1,577 | 🐛 62 | 🌐 Python | 📅 2026-09-18：使用类似 QML 的 Declaratic 语法来创建美观的用户界面。
@@ -934,7 +934,7 @@ Web socket 相关库。
   * [tox](https://tox.readthedocs.io/en/latest/)：自动化测试与发布的工具，支持多个 Python 版本。
 * GUI / Web 测试
   * [locust](https://github.com/locustio/locust) ⭐ 28,195 | 🐛 8 | 🌐 Python | 📅 2026-09-26：使用 Python 编写的，可扩展的用户加载测试工具。
-  * [PyAutoGUI](https://github.com/asweigart/pyautogui) ⭐ 12,725 | 🐛 584 | 🌐 Python | 📅 2024-08-20：PyAutoGUI 是一个人性化的跨平台 GUI 自动测试模块。
+  * [PyAutoGUI](https://github.com/asweigart/pyautogui) ⭐ 12,724 | 🐛 584 | 🌐 Python | 📅 2024-08-20：PyAutoGUI 是一个人性化的跨平台 GUI 自动测试模块。
   * [Schemathesis](https://github.com/kiwicom/schemathesis) ⭐ 3,645 | 🐛 13 | 🌐 Python | 📅 2026-10-02：基于属性的自动测试工具，用于测试使用 Open API / Swagger 规范构建的 Web 应用程序。
   * [sixpack](https://github.com/seatgeek/sixpack) ⭐ 1,754 | 🐛 89 | 🌐 Python | 📅 2022-08-21：一个和语言无关的 A/B 测试框架。
   * [Selenium](https://pypi.python.org/pypi/selenium)：[Selenium](http://www.seleniumhq.org/) WebDriver 的 Python 绑定。
@@ -968,8 +968,8 @@ Web socket 相关库。
 渗透测试相关框架和工具。
 
 * [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,587 | 🐛 32 | 🌐 Python | 📅 2026-09-28：自动 SQL 注入和数据库接管工具。
-* [setoolkit](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,350 | 🐛 15 | 🌐 Python | 📅 2026-06-04：社会工程工具包。
-* [fsociety](https://github.com/Manisso/fsociety) ⭐ 12,324 | 🐛 95 | 🌐 Python | 📅 2026-07-21：一款渗透测试框架。
+* [setoolkit](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,351 | 🐛 15 | 🌐 Python | 📅 2026-06-04：社会工程工具包。
+* [fsociety](https://github.com/Manisso/fsociety) ⭐ 12,325 | 🐛 95 | 🌐 Python | 📅 2026-07-21：一款渗透测试框架。
 
 ### 代码分析和 Lint 工具
 
@@ -1002,8 +1002,8 @@ Web socket 相关库。
   * [pylama](https://pylama.readthedocs.org/en/latest/)：Python 和 JavaScript 的代码审查工具。
 
 * 代码格式化
-  * [black](https://github.com/ambv/black) ⭐ 41,859 | 🐛 298 | 🌐 Python | 📅 2026-10-01：一个坚定的 Python 代码格式化工具。
-  * [isort](https://github.com/timothycrosley/isort) ⭐ 6,960 | 🐛 93 | 🌐 Python | 📅 2026-10-01：用于纠正包导入顺序的 Python 库。
+  * [black](https://github.com/ambv/black) ⭐ 41,860 | 🐛 299 | 🌐 Python | 📅 2026-10-01：一个坚定的 Python 代码格式化工具。
+  * [isort](https://github.com/timothycrosley/isort) ⭐ 6,960 | 🐛 94 | 🌐 Python | 📅 2026-10-01：用于纠正包导入顺序的 Python 库。
   * [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,660 | 🐛 137 | 🌐 Python | 📅 2026-07-20：自动格式化 Python 代码，以使其符合 PEP8 规范。
 
 * 静态类型注释生成器
@@ -1031,7 +1031,7 @@ Web socket 相关库。
   * [manhole](https://github.com/ionelmc/python-manhole) ⭐ 401 | 🐛 9 | 🌐 Python | 📅 2024-07-04：调试UNIX套接字连接，并显示所有线程的堆栈跟踪和交互式提示。
 
 * 性能分析器
-  * [py-spy](https://github.com/benfred/py-spy) ⭐ 15,533 | 🐛 240 | 🌐 Rust | 📅 2026-10-03：Python 程序采样分析器，使用 Rust 实现。
+  * [py-spy](https://github.com/benfred/py-spy) ⭐ 15,533 | 🐛 237 | 🌐 Rust | 📅 2026-10-03：Python 程序采样分析器，使用 Rust 实现。
   * [vprof](https://github.com/nvdv/vprof) ⭐ 3,976 | 🐛 30 | 🌐 Python | 📅 2022-07-15：视觉 Python 分析器。
   * [pyflame](https://github.com/uber/pyflame) ⚠️ Archived：用于 Python 的跟踪分析器。
   * [profiling](https://github.com/what-studio/profiling) ⚠️ Archived：一个交互式 Python 性能分析工具。
@@ -1041,7 +1041,7 @@ Web socket 相关库。
 * 其他
   * [icecream](https://github.com/gruns/icecream) ⭐ 10,110 | 🐛 71 | 🌐 Python | 📅 2026-08-21：通过一个简单的函数调用检查变量、表达式和程序执行情况。
   * [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar) ⭐ 8,380 | 🐛 86 | 🌐 Python | 📅 2026-09-28：为 Django 显示各种调试信息。
-  * [pyelftools](https://github.com/eliben/pyelftools) ⭐ 2,283 | 🐛 56 | 🌐 Python | 📅 2026-10-02：解析和分析 ELF 文件以及 DWARF 调试信息。
+  * [pyelftools](https://github.com/eliben/pyelftools) ⭐ 2,284 | 🐛 56 | 🌐 Python | 📅 2026-10-02：解析和分析 ELF 文件以及 DWARF 调试信息。
   * [django-devserver](https://github.com/dcramer/django-devserver) ⭐ 1,263 | 🐛 59 | 🌐 Python | 📅 2020-02-26：一个 Django 运行服务器的替代品。
   * [flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) ⭐ 978 | 🐛 39 | 🌐 JavaScript | 📅 2026-09-29：django-debug-toolbar 的 flask 版。
   * [python-statsd](https://github.com/WoLpH/python-statsd) ⭐ 110 | 🐛 0 | 🌐 Python | 📅 2026-09-30：[statsd](https://github.com/etsy/statsd/) ⭐ 18,076 | 🐛 91 | 🌐 JavaScript | 📅 2025-05-20 服务器的 Python 客户端。
@@ -1052,7 +1052,7 @@ Web socket 相关库。
 
 * [zipline](https://github.com/quantopian/zipline) ⭐ 20,138 | 🐛 367 | 🌐 Python | 📅 2024-02-13：一个 Python 算法交易库。
 * [SymPy](https://github.com/sympy/sympy) ⭐ 14,985 | 🐛 6,019 | 🌐 Python | 📅 2026-10-02：一个用于符号数学的 Python 库。
-* [statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,669 | 🐛 2,810 | 🌐 Python | 📅 2026-10-02：统计建模和计量经济学。
+* [statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,668 | 🐛 2,810 | 🌐 Python | 📅 2026-10-02：统计建模和计量经济学。
 * [PyMC](https://github.com/pymc-devs/pymc3) ⭐ 9,790 | 🐛 518 | 🌐 Python | 📅 2026-10-02：马尔科夫链蒙特卡洛采样工具。
 * [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) ⭐ 4,120 | 🐛 51 | 🌐 Python | 📅 2026-09-28：AWS 平台上使用的 Pandas。
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,289 | 🐛 12 | 🌐 Python | 📅 2024-07-17：用于图形结构化数据的无监督机器学习工具箱。
@@ -1084,7 +1084,7 @@ Web socket 相关库。
 
 进行数据可视化的库。 参见：[awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization) ⭐ 35,032 | 🐛 26 | 📅 2026-09-08。
 
-* [diagrams](https://github.com/mingrammer/diagrams) ⭐ 42,666 | 🐛 394 | 🌐 Python | 📅 2026-10-01：用图表作为代码。
+* [diagrams](https://github.com/mingrammer/diagrams) ⭐ 42,667 | 🐛 394 | 🌐 Python | 📅 2026-10-01：用图表作为代码。
 * [bokeh](https://github.com/bokeh/bokeh) ⭐ 20,455 | 🐛 846 | 🌐 TypeScript | 📅 2026-10-03：用 Python 进行交互式 web 绘图。
 * [pyecharts](https://github.com/chenjiandongx/pyecharts) ⭐ 15,774 | 🐛 5 | 🌐 Python | 📅 2026-08-04：基于百度 Echarts 的数据可视化库。
 * [Seaborn](https://github.com/mwaskom/seaborn) ⭐ 14,053 | 🐛 239 | 🌐 Python | 📅 2026-07-06：使用 Matplotlib 进行统计数据可视化。
@@ -1109,9 +1109,9 @@ Web socket 相关库。
 
 计算机视觉相关库。
 
-* [Face Recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,792 | 🐛 832 | 🌐 Python | 📅 2026-06-25：简单的面部识别库。
+* [Face Recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,793 | 🐛 832 | 🌐 Python | 📅 2026-06-25：简单的面部识别库。
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 30,042 | 🐛 532 | 🌐 Python | 📅 2025-12-05：支持40多种语言的即用型 OCR。
-* [Kornia](https://github.com/kornia/kornia/) ⭐ 11,394 | 🐛 208 | 🌐 Python | 📅 2026-10-02：PyTorch 的开源差异化计算机视觉库。
+* [Kornia](https://github.com/kornia/kornia/) ⭐ 11,395 | 🐛 212 | 🌐 Python | 📅 2026-10-02：PyTorch 的开源差异化计算机视觉库。
 * [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,393 | 🐛 21 | 🌐 Python | 📅 2026-09-28：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一包装库。
 * [tesserocr](https://github.com/sirfz/tesserocr) ⭐ 2,175 | 🐛 46 | 🌐 Python | 📅 2026-08-04：另一个简单的，兼容 Pillow 的 `tesseract-ocr` API 装饰器，可用于 OCR。
 * [pyocr](https://github.com/jflesch/pyocr) ⚠️ Archived：Tesseract 和 Cuneiform 的包装库。
@@ -1120,12 +1120,12 @@ Web socket 相关库。
 
 ### 深度学习
 
-神经网络和深度学习相关框架。 也可以参考 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,000 | 🐛 88 | 📅 2025-05-26。
+神经网络和深度学习相关框架。 也可以参考 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,002 | 🐛 88 | 📅 2025-05-26。
 
 * [Caffe](http://caffe.berkeleyvision.org)：一个 [Caffe](https://github.com/BVLC/caffe) ⭐ 34,550 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 的 python 接口。
 * [Theano](https://github.com/Theano/Theano) ⭐ 10,007 | 🐛 699 | 🌐 Python | 📅 2024-01-15：一个快速数值计算库。
 * [SerpentAI](https://github.com/SerpentAI/SerpentAI) ⚠️ Archived：游戏代理框架，可使用任意视频游戏作为深度学习沙箱。
-* [skflow](https://github.com/tensorflow/skflow) ⚠️ Archived：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 200,668 | 🐛 3,239 | 🌐 C++ | 📅 2026-10-03 的简化接口(模仿 scikit-learn)。
+* [skflow](https://github.com/tensorflow/skflow) ⚠️ Archived：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 200,668 | 🐛 3,242 | 🌐 C++ | 📅 2026-10-03 的简化接口(模仿 scikit-learn)。
 * [pydeep](https://github.com/andersbll/deeppy) ⭐ 1,370 | 🐛 22 | 🌐 Python | 📅 2020-12-28：Python 深度学习库。
 * [hebel](https://github.com/hannes-brt/hebel) ⭐ 1,169 | 🐛 6 | 🌐 Python | 📅 2020-12-29：GPU 加速的深度学习库。
 * [Caffe2](https://caffe2.ai/)：一个轻量级的，模块化的，可扩展的深度学习框架。
@@ -1136,11 +1136,11 @@ Web socket 相关库。
 
 ### 机器学习
 
-机器学习相关库，也可以参考 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python) ⭐ 74,510 | 🐛 22 | 🌐 Python | 📅 2026-09-30。
+机器学习相关库，也可以参考 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python) ⭐ 74,511 | 🐛 22 | 🌐 Python | 📅 2026-09-30。
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,779 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16：MindsDB 是现有数据库的开源 AI 层，可让使用标准查询轻松地进行开发，训练和部署最新的机器学习模型。
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,780 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16：MindsDB 是现有数据库的开源 AI 层，可让使用标准查询轻松地进行开发，训练和部署最新的机器学习模型。
 * [gym](https://github.com/openai/gym) ⚠️ Archived：开发和比较强化学习算法的工具包。
-* [xgboost](https://github.com/dmlc/xgboost) ⭐ 28,816 | 🐛 446 | 🌐 C++ | 📅 2026-10-02：可扩展，便携式和分布式梯度提升库。
+* [xgboost](https://github.com/dmlc/xgboost) ⭐ 28,816 | 🐛 447 | 🌐 C++ | 📅 2026-10-02：可扩展，便携式和分布式梯度提升库。
 * [pattern](https://github.com/clips/pattern) ⭐ 8,859 | 🐛 179 | 🌐 Python | 📅 2026-08-05：Python 网络挖掘模块。
 * [H2O](https://github.com/h2oai/h2o-3) ⭐ 7,510 | 🐛 2,857 | 🌐 Jupyter Notebook | 📅 2026-09-25：开源快速可扩展的机器学习平台。
 * [NuPIC](https://github.com/numenta/nupic) ⭐ 6,354 | 🐛 465 | 🌐 Python | 📅 2024-12-03：智能计算 Numenta 平台。
@@ -1170,7 +1170,7 @@ Web socket 相关库。
 
 分布式计算相关的框架和库。
 
-* [Ray](https://github.com/ray-project/ray/) ⭐ 43,961 | 🐛 3,542 | 🌐 Python | 📅 2026-10-03：一个用于并行和分布式 Python 的系统，它统一了机器学习生态系统。
+* [Ray](https://github.com/ray-project/ray/) ⭐ 43,965 | 🐛 3,544 | 🌐 Python | 📅 2026-10-03：一个用于并行和分布式 Python 的系统，它统一了机器学习生态系统。
 * [luigi](https://github.com/spotify/luigi) ⭐ 18,778 | 🐛 178 | 🌐 Python | 📅 2026-07-18：这个模块帮你构建批处理作业的复杂流水线。
 * [dask](https://github.com/dask/dask) ⭐ 13,930 | 🐛 1,350 | 🌐 Python | 📅 2026-09-29：用于分析计算的灵活的并行计算库。
 * [faust](https://github.com/robinhood/faust) ⭐ 6,824 | 🐛 280 | 🌐 Python | 📅 2024-07-27：一个 Python 流处理库，核心思想来源 [Kafka Streams](https://kafka.apache.org/documentation/streams/)。
@@ -1185,10 +1185,10 @@ Web socket 相关库。
 
 使用 Python 进行函数式编程。
 
-* [Toolz](https://github.com/pytoolz/toolz) ⭐ 5,157 | 🐛 136 | 🌐 Python | 📅 2026-09-18：一组用于迭代器，函数和字典的函数式编程工具。
+* [Toolz](https://github.com/pytoolz/toolz) ⭐ 5,157 | 🐛 138 | 🌐 Python | 📅 2026-09-18：一组用于迭代器，函数和字典的函数式编程工具。
 * [returns](https://github.com/dry-python/returns) ⭐ 4,372 | 🐛 81 | 🌐 Python | 📅 2026-10-02：一个类型安全的单元、转换器与合成工具集合。
 * [Coconut](https://github.com/evhub/coconut) ⭐ 4,355 | 🐛 91 | 🌐 Python | 📅 2026-02-16：为了简单、优雅、更 Pythonic 的函数式编程而构建的 Python 变体。
-* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,097 | 🐛 8 | 🌐 Python | 📅 2026-09-29：比 `itertools` 拥有更多的可迭代对象的操作方式。
+* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,097 | 🐛 9 | 🌐 Python | 📅 2026-09-29：比 `itertools` 拥有更多的可迭代对象的操作方式。
 * [funcy](https://github.com/Suor/funcy) ⭐ 3,510 | 🐛 7 | 🌐 Python | 📅 2026-09-27：炫酷又实用的函数式工具。
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,368 | 🐛 33 | 🌐 Python | 📅 2022-08-30：在 Python 中进行函数式编程：实现了一些享受函数式编程缺失的功能。
 * [CyToolz](https://github.com/pytoolz/cytoolz/) ⭐ 1,114 | 🐛 34 | 🌐 Python | 📅 2026-09-18：Toolz 的 Cython 实现：高性能函数式工具。
@@ -1213,9 +1213,9 @@ Web socket 相关库。
 
 * [Ansible](https://github.com/ansible/ansible) ⭐ 70,834 | 🐛 863 | 🌐 Python | 📅 2026-10-02：一个非常简单的 IT 自动化平台。
 * [SaltStack](https://github.com/saltstack/salt) ⭐ 15,685 | 🐛 1,877 | 🌐 Python | 📅 2026-09-30：基础设施自动化和管理系统。
-* [psutil](https://github.com/giampaolo/psutil) ⭐ 11,285 | 🐛 271 | 🌐 Python | 📅 2026-10-01：一个跨平台进程和系统工具模块。
+* [psutil](https://github.com/giampaolo/psutil) ⭐ 11,285 | 🐛 271 | 🌐 Python | 📅 2026-10-03：一个跨平台进程和系统工具模块。
 * [supervisor](https://github.com/Supervisor/supervisor) ⭐ 9,123 | 🐛 183 | 🌐 Python | 📅 2025-12-21：UNIX 的进程控制系统。
-* [pyinfra](https://github.com/Fizzadar/pyinfra) ⭐ 6,026 | 🐛 163 | 🌐 Python | 📅 2026-09-22：一个通用的 CLI 工具包和 python 库，用于自动化的基础设施。
+* [pyinfra](https://github.com/Fizzadar/pyinfra) ⭐ 6,027 | 🐛 163 | 🌐 Python | 📅 2026-09-22：一个通用的 CLI 工具包和 python 库，用于自动化的基础设施。
 * [pexpect](https://github.com/pexpect/pexpect) ⭐ 2,851 | 🐛 173 | 🌐 Python | 📅 2025-04-11：在一个伪终端中控制交互程序，就像 GNU expect 一样。
 * [honcho](https://github.com/nickstenning/honcho) ⭐ 1,715 | 🐛 29 | 🌐 Python | 📅 2025-06-03：[Foreman](https://github.com/ddollar/foreman) ⭐ 6,162 | 🐛 72 | 🌐 Ruby | 📅 2025-07-27 的 Python 克隆版，用来管理基于 [Procfile](https://devcenter.heroku.com/articles/procfile) 的应用。
 * [honcho](https://github.com/nickstenning/honcho) ⭐ 1,715 | 🐛 29 | 🌐 Python | 📅 2025-06-03：[Foreman](https://github.com/ddollar/foreman) ⭐ 6,162 | 🐛 72 | 🌐 Ruby | 📅 2025-07-27 的 Python 克隆版，用于管理基于 Procfile 的应用。
@@ -1234,7 +1234,7 @@ Web socket 相关库。
 
 任务调度库。
 
-* [Prefect](https://github.com/PrefectHQ/prefect) ⭐ 23,963 | 🐛 871 | 🌐 Python | 📅 2026-10-02：一个现代的工作流程编排框架，使构建、计划和监视健壮的数据管道变得容易。
+* [Prefect](https://github.com/PrefectHQ/prefect) ⭐ 23,963 | 🐛 872 | 🌐 Python | 📅 2026-10-02：一个现代的工作流程编排框架，使构建、计划和监视健壮的数据管道变得容易。
 * [schedule](https://github.com/dbader/schedule) ⭐ 12,277 | 🐛 182 | 🌐 Python | 📅 2024-05-25：人性化的 Python 任务调度库。
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) ⭐ 1,922 | 🐛 8 | 🌐 Python | 📅 2026-09-02：使用纯 Python 实现的强大的工作流引擎。
 * [Plan](https://github.com/fengsp/plan) ⭐ 1,183 | 🐛 4 | 🌐 Python | 📅 2022-07-16：如有神助地编写 crontab 文件。
@@ -1267,10 +1267,10 @@ Python 重构相关库和工具。
 
 让 Python 更快的库。
 
-* [MicroPython](https://github.com/micropython/micropython) ⭐ 22,105 | 🐛 1,532 | 🌐 C | 📅 2026-10-02：精简高效的 Python 编程语言实现。
+* [MicroPython](https://github.com/micropython/micropython) ⭐ 22,104 | 🐛 1,532 | 🌐 C | 📅 2026-10-02：精简高效的 Python 编程语言实现。
 * [Grumpy](https://github.com/google/grumpy) ⚠️ Archived：编译器比解释器更强大的 cpython2.7 替代品（alpha）。
 * [Pyston](https://github.com/dropbox/pyston) ⚠️ Archived：使用 LLVM 和现代 JIT 技术构建的 Python 实现，目标是为了获得很好的性能。
-* [IronPython](https://github.com/IronLanguages/ironpython3) ⭐ 2,766 | 🐛 309 | 🌐 C# | 📅 2026-10-01：用 C＃ 编写的 Python 编程语言的实现。
+* [IronPython](https://github.com/IronLanguages/ironpython3) ⭐ 2,766 | 🐛 307 | 🌐 C# | 📅 2026-10-03：用 C＃ 编写的 Python 编程语言的实现。
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) ⭐ 2,063 | 🐛 28 | 🌐 Python | 📅 2023-09-25：嵌入 Python 的 x86-64 汇编器。可以被用作 Python 内联的汇编器或者是独立的汇编器，用于 Windows，Linux，OS X，Native Client 或者 Go 。
 * [Pyjion](https://github.com/Microsoft/Pyjion) ⚠️ Archived：基于 CoreCLR 的 Python JIT。
 * [CLPython](https://github.com/metawilm/cl-python) ⭐ 396 | 🐛 2 | 🌐 Common Lisp | 📅 2024-06-13：用 Common Lisp 编写的 Python 编程语言的实现。
@@ -1305,7 +1305,7 @@ Python 重构相关库和工具。
 
 用来对硬件进行编程的库。
 
-* [scapy](https://github.com/secdev/scapy) ⭐ 12,579 | 🐛 139 | 🌐 Python | 📅 2026-10-02：一个非常棒的操作数据包的库。
+* [scapy](https://github.com/secdev/scapy) ⭐ 12,580 | 🐛 139 | 🌐 Python | 📅 2026-10-02：一个非常棒的操作数据包的库。
 * [keyboard](https://github.com/boppreh/keyboard) ⭐ 3,969 | 🐛 416 | 🌐 Python | 📅 2026-07-10：在 Windows 和 Linux 上挂钩并模拟全局键盘事件。
 * [PyUserInput](https://github.com/SavinaRoja/PyUserInput) ⭐ 1,063 | 🐛 76 | 🌐 Python | 📅 2021-09-08：跨平台的，控制鼠标和键盘的模块。
 * [mouse](https://github.com/boppreh/mouse) ⚠️ Archived：在 Windows 和 Linux 上挂钩并模拟全局鼠标事件。
@@ -1327,12 +1327,12 @@ Python 重构相关库和工具。
 数据结构、算法和设计模式的 Python 实现。也可以参考 [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,598 | 🐛 0 | 📅 2026-09-22 。
 
 * 算法
-  * [TheAlgorithms](https://github.com/TheAlgorithms/Python) ⭐ 225,214 | 🐛 7 | 🌐 Python | 📅 2026-10-01：所有算法的 Python 实现。
-  * [algorithms](https://github.com/keon/algorithms) ⭐ 25,558 | 🐛 14 | 🌐 Python | 📅 2026-09-25：数据结构和算法的简单示例。
+  * [TheAlgorithms](https://github.com/TheAlgorithms/Python) ⭐ 225,217 | 🐛 7 | 🌐 Python | 📅 2026-10-01：所有算法的 Python 实现。
+  * [algorithms](https://github.com/keon/algorithms) ⭐ 25,559 | 🐛 14 | 🌐 Python | 📅 2026-09-25：数据结构和算法的简单示例。
   * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) ⭐ 3,980 | 🐛 41 | 🌐 Python | 📅 2024-03-08：排序集合的快速的纯 Python 实现。
   * [python-ds](https://github.com/prabhupant/python-ds) ⭐ 3,095 | 🐛 34 | 🌐 Python | 📅 2024-04-06：用于面试的数据结构和算法的集合。
 * 设计模式
-  * [python-patterns](https://github.com/faif/python-patterns) ⭐ 43,031 | 🐛 12 | 🌐 Python | 📅 2026-10-02：一个 Python 设计模式集合。
+  * [python-patterns](https://github.com/faif/python-patterns) ⭐ 43,033 | 🐛 12 | 🌐 Python | 📅 2026-10-02：一个 Python 设计模式集合。
   * [transitions](https://github.com/pytransitions/transitions) ⭐ 6,595 | 🐛 23 | 🌐 Python | 📅 2025-09-11：轻量级的，面向对象的有限状态机实现。
   * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) ⚠️ Archived：一个简单而有效的库，用于实现常见的设计模式。
 
@@ -1350,7 +1350,7 @@ Python 重构相关库和工具。
 
 机器人相关库。
 
-* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,621 | 🐛 58 | 🌐 Python | 📅 2026-10-02：各种具有可视化效果的机器人算法的汇总。
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,621 | 🐛 59 | 🌐 Python | 📅 2026-10-03：各种具有可视化效果的机器人算法的汇总。
 * [rospy](http://wiki.ros.org/rospy)：ROS (Robot Operating System) 库。
 
 ### 聊天工具
@@ -1395,17 +1395,17 @@ GraphQL 相关库。
 
 ### 股票金融
 
-* [vnpy](https://github.com/vnpy/vnpy) ⭐ 45,675 | 🐛 25 | 🌐 Python | 📅 2026-09-13：基于Python的开源量化交易系统开发框架，整合了多种交易接口，并针对具体策略算法和功能开发提供了简洁易用的API，用于快速构建交易员所需的量化交易应用
+* [vnpy](https://github.com/vnpy/vnpy) ⭐ 45,676 | 🐛 25 | 🌐 Python | 📅 2026-09-13：基于Python的开源量化交易系统开发框架，整合了多种交易接口，并针对具体策略算法和功能开发提供了简洁易用的API，用于快速构建交易员所需的量化交易应用
 * [abu](https://github.com/bbfamily/abu) ⭐ 18,813 | 🐛 6 | 🌐 Python | 📅 2026-01-24: 基于python的开源量化交易，量化投资架构
-* [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) ⭐ 11,251 | 🐛 240 | 🌐 Python | 📅 2026-09-18：支持任务调度，分布式部署的股票/期货/期权/港股/虚拟货币的数据/回测/模拟/交易/可视化/多账户纯本地量化解决方案
-* [Hikyuu Quant](https://github.com/fasiondog/hikyuu) ⭐ 3,539 | 🐛 4 | 🌐 C++ | 📅 2026-10-02：基于C++/Python的开源量化交易研究框架，用于策略分析及回测（仅受限于数据，如有数据也可用于期货等）
+* [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) ⭐ 11,252 | 🐛 240 | 🌐 Python | 📅 2026-09-18：支持任务调度，分布式部署的股票/期货/期权/港股/虚拟货币的数据/回测/模拟/交易/可视化/多账户纯本地量化解决方案
+* [Hikyuu Quant](https://github.com/fasiondog/hikyuu) ⭐ 3,540 | 🐛 4 | 🌐 C++ | 📅 2026-10-02：基于C++/Python的开源量化交易研究框架，用于策略分析及回测（仅受限于数据，如有数据也可用于期货等）
 
 ### 杂项
 
 不属于上面任何一个类别，但是非常有用的库。
 
 * [magenta](https://github.com/magenta/magenta) ⚠️ Archived：使用人工智能生成音乐与艺术的工具。
-* [boltons](https://github.com/mahmoud/boltons) ⭐ 6,932 | 🐛 107 | 🌐 Python | 📅 2026-09-23：一组纯 Python 实用工具。
+* [boltons](https://github.com/mahmoud/boltons) ⭐ 6,932 | 🐛 108 | 🌐 Python | 📅 2026-09-23：一组纯 Python 实用工具。
 * [itsdangerous](https://github.com/pallets/itsdangerous) ⭐ 3,137 | 🐛 5 | 🌐 Python | 📅 2025-06-14：将受信任的数据传递到不受信任的环境的帮助工具。
 * [blinker](https://github.com/jek/blinker) ⭐ 2,098 | 🐛 0 | 🌐 Python | 📅 2025-11-19：快速的 Python 运行时信号/事件分配系统。
 * [pluginbase](https://github.com/mitsuhiko/pluginbase) ⭐ 1,140 | 🐛 5 | 🌐 Python | 📅 2021-05-16：一个简单但灵活的 Python 插件系统。
